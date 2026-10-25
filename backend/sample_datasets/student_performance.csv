@@ -1,0 +1,801 @@
+Student_ID,Department,Gender,Attendance_Pct,Weekly_Study_Hours,Midterm_Marks,Final_Marks,Grade
+STU-20000,Computer Science,Non-binary,62.8,38.3,68.3,77.1,B
+STU-20001,Data Science,Female,60.8,12.3,58.1,62.6,C
+STU-20002,Data Science,Male,85.9,38.4,93.4,92.5,A
+STU-20003,Electrical Eng,Male,96.1,26.1,80.9,87.8,A
+STU-20004,Computer Science,Male,80.5,22.1,76.2,79.2,B
+STU-20005,Data Science,Female,90.3,33.4,81.8,84.1,B
+STU-20006,Data Science,Non-binary,77.0,6.4,51.8,57.9,C
+STU-20007,Electrical Eng,Non-binary,66.2,22.3,72.2,74.0,B
+STU-20008,Economics,Female,71.6,20.3,65.6,74.6,B
+STU-20009,Mechanical Eng,Non-binary,96.1,34.5,83.9,87.9,A
+STU-20010,Business Admin,Non-binary,61.9,7.7,54.4,58.2,C
+STU-20011,Computer Science,Male,86.4,24.9,72.1,80.1,B
+STU-20012,Business Admin,Non-binary,63.3,22.6,65.6,74.0,B
+STU-20013,Mechanical Eng,Male,61.8,19.6,69.6,70.2,B
+STU-20014,Business Admin,Non-binary,89.0,31.5,70.9,77.2,B
+STU-20015,Mechanical Eng,Female,67.4,31.1,77.3,79.6,B
+STU-20016,Electrical Eng,Female,77.4,5.6,58.7,59.8,C
+STU-20017,Data Science,Non-binary,76.2,28.0,78.3,78.4,B
+STU-20018,Electrical Eng,Male,72.1,33.5,78.2,75.0,B
+STU-20019,Electrical Eng,Male,92.2,8.1,55.4,63.2,C
+STU-20020,Mechanical Eng,Female,92.6,29.4,81.4,86.0,A
+STU-20021,Mechanical Eng,Non-binary,69.7,34.5,83.4,81.6,B
+STU-20022,Economics,Female,63.4,31.9,69.0,79.0,B
+STU-20023,Mechanical Eng,Non-binary,88.1,38.7,90.1,95.4,A
+STU-20024,Data Science,Non-binary,69.7,15.3,61.9,67.5,C
+STU-20025,Computer Science,Non-binary,93.9,20.1,69.3,74.3,B
+STU-20026,Data Science,Non-binary,83.1,30.6,78.2,84.1,B
+STU-20027,Economics,Non-binary,89.0,37.7,93.6,90.8,A
+STU-20028,Data Science,Female,88.6,23.5,65.0,75.4,B
+STU-20029,Electrical Eng,Male,95.6,9.1,70.8,72.6,B
+STU-20030,Electrical Eng,Male,77.9,20.3,72.4,76.7,B
+STU-20031,Data Science,Female,80.3,25.6,83.3,84.4,B
+STU-20032,Economics,Non-binary,86.3,9.6,67.8,65.1,C
+STU-20033,Electrical Eng,Non-binary,89.4,32.9,95.6,94.7,A
+STU-20034,Mechanical Eng,Non-binary,68.3,29.2,71.3,80.6,B
+STU-20035,Mechanical Eng,Non-binary,79.7,32.8,89.4,86.1,A
+STU-20036,Data Science,Male,69.4,24.5,69.6,77.1,B
+STU-20037,Electrical Eng,Female,67.0,35.1,76.0,79.9,B
+STU-20038,Computer Science,Male,77.2,26.6,71.9,79.7,B
+STU-20039,Business Admin,Male,90.8,32.0,85.9,89.4,A
+STU-20040,Mechanical Eng,Non-binary,94.9,26.2,88.5,85.2,A
+STU-20041,Data Science,Female,99.0,32.4,88.9,91.5,A
+STU-20042,Computer Science,Non-binary,61.7,8.7,51.3,49.7,D
+STU-20043,Mechanical Eng,Non-binary,71.7,20.5,59.6,62.7,C
+STU-20044,Electrical Eng,Female,66.2,17.7,59.4,66.7,C
+STU-20045,Data Science,Female,69.8,33.3,70.9,77.2,B
+STU-20046,Economics,Female,63.4,18.0,63.8,64.9,C
+STU-20047,Mechanical Eng,Non-binary,76.9,13.0,62.0,61.4,C
+STU-20048,Data Science,Male,95.9,38.3,89.9,86.5,A
+STU-20049,Data Science,Female,90.8,30.1,80.7,84.6,B
+STU-20050,Computer Science,Female,73.5,19.1,65.4,70.4,B
+STU-20051,Computer Science,Non-binary,96.9,10.3,64.4,66.7,C
+STU-20052,Electrical Eng,Non-binary,92.0,35.7,98.1,95.5,A
+STU-20053,Electrical Eng,Non-binary,94.9,30.3,78.8,86.3,A
+STU-20054,Business Admin,Female,93.1,36.5,83.1,89.3,A
+STU-20055,Electrical Eng,Female,95.5,26.9,80.7,82.9,B
+STU-20056,Data Science,Non-binary,73.8,33.4,78.1,76.1,B
+STU-20057,Computer Science,Female,81.5,18.6,65.1,65.5,C
+STU-20058,Mechanical Eng,Non-binary,99.7,14.9,78.3,82.1,B
+STU-20059,Electrical Eng,Female,60.9,36.2,78.4,81.8,B
+STU-20060,Business Admin,Female,93.3,15.6,69.3,69.6,C
+STU-20061,Business Admin,Male,85.1,17.4,65.1,75.7,B
+STU-20062,Electrical Eng,Female,77.9,25.0,72.4,80.7,B
+STU-20063,Electrical Eng,Non-binary,82.6,36.3,85.1,87.2,A
+STU-20064,Economics,Non-binary,69.4,15.5,58.5,60.6,C
+STU-20065,Mechanical Eng,Non-binary,75.1,30.8,62.5,71.7,B
+STU-20066,Economics,Non-binary,67.7,32.2,70.2,75.1,B
+STU-20067,Data Science,Female,63.7,19.9,58.9,67.2,C
+STU-20068,Mechanical Eng,Male,63.1,28.7,68.4,68.0,C
+STU-20069,Business Admin,Non-binary,80.0,19.8,71.8,76.5,B
+STU-20070,Data Science,Non-binary,98.9,33.8,92.5,93.2,A
+STU-20071,Mechanical Eng,Non-binary,80.5,23.5,77.2,78.1,B
+STU-20072,Data Science,Male,61.3,10.5,41.4,47.4,D
+STU-20073,Data Science,Female,64.8,25.0,57.3,66.8,C
+STU-20074,Mechanical Eng,Female,74.9,39.7,85.5,84.8,B
+STU-20075,Mechanical Eng,Non-binary,76.9,37.8,83.3,91.4,A
+STU-20076,Business Admin,Female,67.3,30.9,71.6,82.9,B
+STU-20077,Computer Science,Male,79.2,15.8,65.3,69.4,C
+STU-20078,Business Admin,Male,79.0,30.2,70.5,74.1,B
+STU-20079,Data Science,Male,86.7,10.2,62.3,62.6,C
+STU-20080,Computer Science,Non-binary,86.6,19.3,72.4,75.6,B
+STU-20081,Electrical Eng,Male,89.4,27.6,89.8,87.8,A
+STU-20082,Electrical Eng,Female,82.9,32.9,72.4,82.8,B
+STU-20083,Economics,Female,67.7,26.7,65.0,67.3,C
+STU-20084,Computer Science,Non-binary,80.9,31.3,79.9,81.4,B
+STU-20085,Economics,Female,98.5,14.6,67.8,76.1,B
+STU-20086,Electrical Eng,Non-binary,77.8,33.2,67.6,78.7,B
+STU-20087,Computer Science,Male,77.5,19.5,69.9,68.4,C
+STU-20088,Business Admin,Male,70.3,9.0,55.2,62.8,C
+STU-20089,Business Admin,Female,66.2,38.3,82.7,83.9,B
+STU-20090,Computer Science,Non-binary,98.4,11.4,63.1,72.5,B
+STU-20091,Mechanical Eng,Male,95.7,14.0,73.1,70.4,B
+STU-20092,Computer Science,Female,68.1,31.3,72.3,72.3,B
+STU-20093,Data Science,Female,70.8,16.1,60.7,63.2,C
+STU-20094,Computer Science,Male,61.2,27.2,69.3,72.1,B
+STU-20095,Economics,Non-binary,64.1,31.7,74.0,75.5,B
+STU-20096,Mechanical Eng,Male,82.7,20.6,78.4,77.9,B
+STU-20097,Mechanical Eng,Male,81.6,10.9,55.3,61.5,C
+STU-20098,Data Science,Non-binary,78.1,5.0,46.4,51.1,D
+STU-20099,Mechanical Eng,Female,62.4,37.3,74.1,81.9,B
+STU-20100,Business Admin,Non-binary,75.2,17.3,61.3,64.4,C
+STU-20101,Computer Science,Female,89.6,24.7,68.9,75.7,B
+STU-20102,Data Science,Non-binary,64.9,9.9,51.6,55.1,C
+STU-20103,Economics,Non-binary,98.3,16.1,74.8,75.8,B
+STU-20104,Business Admin,Non-binary,70.5,31.3,78.1,74.6,B
+STU-20105,Business Admin,Female,78.4,26.0,66.8,78.3,B
+STU-20106,Electrical Eng,Female,85.9,5.1,52.0,52.8,D
+STU-20107,Data Science,Non-binary,95.8,29.6,88.8,88.6,A
+STU-20108,Economics,Female,91.5,27.7,86.3,84.9,B
+STU-20109,Electrical Eng,Male,86.9,17.4,75.2,74.3,B
+STU-20110,Economics,Male,75.5,34.4,77.2,88.2,A
+STU-20111,Business Admin,Female,77.8,12.8,45.3,53.1,D
+STU-20112,Business Admin,Non-binary,96.9,17.5,76.1,83.6,B
+STU-20113,Electrical Eng,Female,69.4,22.3,68.5,74.3,B
+STU-20114,Business Admin,Male,96.2,29.7,89.4,88.1,A
+STU-20115,Data Science,Female,94.8,24.9,81.6,86.0,A
+STU-20116,Economics,Female,86.4,24.8,66.2,76.7,B
+STU-20117,Mechanical Eng,Non-binary,62.6,14.1,53.4,55.4,C
+STU-20118,Mechanical Eng,Non-binary,89.2,14.6,76.2,73.0,B
+STU-20119,Electrical Eng,Non-binary,84.6,28.8,83.2,81.0,B
+STU-20120,Computer Science,Male,85.6,38.0,93.7,100.0,A
+STU-20121,Data Science,Male,64.9,23.1,69.5,73.2,B
+STU-20122,Economics,Female,95.4,12.9,68.2,72.6,B
+STU-20123,Computer Science,Male,67.8,7.9,61.3,63.6,C
+STU-20124,Computer Science,Non-binary,69.0,29.1,77.0,86.6,A
+STU-20125,Business Admin,Male,62.5,26.9,58.7,68.6,C
+STU-20126,Data Science,Female,83.7,26.9,68.1,78.1,B
+STU-20127,Mechanical Eng,Male,93.3,33.8,88.3,92.6,A
+STU-20128,Mechanical Eng,Female,91.0,26.7,80.5,83.4,B
+STU-20129,Computer Science,Female,96.7,18.2,73.3,71.3,B
+STU-20130,Electrical Eng,Female,91.3,7.2,65.9,67.8,C
+STU-20131,Data Science,Female,64.1,7.0,47.1,54.7,D
+STU-20132,Data Science,Male,63.8,31.3,74.9,76.3,B
+STU-20133,Computer Science,Male,75.4,32.8,90.4,88.1,A
+STU-20134,Economics,Female,73.6,37.8,78.6,85.8,A
+STU-20135,Mechanical Eng,Female,64.1,25.8,56.9,65.9,C
+STU-20136,Mechanical Eng,Non-binary,65.0,22.8,64.0,65.7,C
+STU-20137,Mechanical Eng,Female,65.5,6.5,53.3,60.9,C
+STU-20138,Economics,Male,80.5,27.8,72.2,75.3,B
+STU-20139,Mechanical Eng,Female,78.8,26.1,75.0,82.6,B
+STU-20140,Computer Science,Non-binary,83.5,28.7,88.4,86.9,A
+STU-20141,Computer Science,Male,73.8,39.2,86.1,88.0,A
+STU-20142,Mechanical Eng,Female,73.7,28.4,70.2,72.4,B
+STU-20143,Business Admin,Non-binary,82.6,16.7,52.9,58.1,C
+STU-20144,Business Admin,Female,64.2,35.7,87.1,84.2,B
+STU-20145,Electrical Eng,Female,87.7,21.3,66.1,74.0,B
+STU-20146,Data Science,Non-binary,90.7,33.5,83.5,89.8,A
+STU-20147,Computer Science,Male,60.4,17.5,56.3,58.6,C
+STU-20148,Mechanical Eng,Male,77.6,27.1,85.5,81.8,B
+STU-20149,Mechanical Eng,Female,71.4,12.7,55.3,61.3,C
+STU-20150,Mechanical Eng,Male,93.9,13.6,67.2,74.5,B
+STU-20151,Computer Science,Female,93.3,9.8,71.7,73.1,B
+STU-20152,Computer Science,Male,97.4,15.7,75.7,77.1,B
+STU-20153,Economics,Non-binary,95.3,35.7,86.3,100.0,A
+STU-20154,Mechanical Eng,Female,91.8,11.7,65.6,67.6,C
+STU-20155,Electrical Eng,Female,96.8,31.7,89.4,92.4,A
+STU-20156,Economics,Male,91.6,16.5,85.3,83.3,B
+STU-20157,Economics,Non-binary,95.4,12.3,65.8,75.9,B
+STU-20158,Data Science,Non-binary,84.6,10.9,59.7,59.7,C
+STU-20159,Business Admin,Male,80.8,11.3,72.5,73.0,B
+STU-20160,Economics,Non-binary,79.3,38.5,79.2,81.0,B
+STU-20161,Economics,Non-binary,61.5,12.7,54.1,60.8,C
+STU-20162,Mechanical Eng,Male,68.7,19.9,67.5,66.3,C
+STU-20163,Business Admin,Non-binary,63.4,31.3,70.4,77.4,B
+STU-20164,Economics,Male,69.2,6.4,50.1,53.3,D
+STU-20165,Data Science,Male,74.7,22.4,65.6,72.5,B
+STU-20166,Computer Science,Female,77.7,14.3,70.1,77.1,B
+STU-20167,Economics,Non-binary,81.9,7.7,62.4,68.9,C
+STU-20168,Mechanical Eng,Female,64.7,17.6,59.7,60.6,C
+STU-20169,Business Admin,Male,89.8,31.9,86.8,85.2,A
+STU-20170,Mechanical Eng,Non-binary,84.2,9.8,68.4,71.4,B
+STU-20171,Business Admin,Female,90.8,14.9,61.6,67.0,C
+STU-20172,Data Science,Male,92.9,31.5,99.1,94.6,A
+STU-20173,Mechanical Eng,Male,69.1,30.3,69.0,77.4,B
+STU-20174,Mechanical Eng,Non-binary,83.5,24.3,63.2,68.8,C
+STU-20175,Computer Science,Male,93.8,20.0,83.4,80.3,B
+STU-20176,Data Science,Female,77.5,34.9,88.7,86.6,A
+STU-20177,Business Admin,Non-binary,60.4,33.4,77.7,76.4,B
+STU-20178,Business Admin,Female,76.8,29.0,68.7,71.8,B
+STU-20179,Business Admin,Non-binary,60.9,32.5,83.1,80.3,B
+STU-20180,Mechanical Eng,Male,82.7,33.0,83.6,90.1,A
+STU-20181,Data Science,Female,97.9,7.2,61.8,66.6,C
+STU-20182,Data Science,Female,73.2,38.7,73.0,82.5,B
+STU-20183,Electrical Eng,Non-binary,67.1,33.9,73.5,75.7,B
+STU-20184,Computer Science,Female,68.0,36.9,71.9,79.2,B
+STU-20185,Economics,Female,78.2,17.9,62.0,72.8,B
+STU-20186,Business Admin,Male,75.6,39.6,90.4,90.5,A
+STU-20187,Data Science,Female,65.2,12.2,60.5,64.6,C
+STU-20188,Electrical Eng,Non-binary,79.0,26.1,79.6,83.7,B
+STU-20189,Electrical Eng,Male,71.0,5.3,48.5,55.2,C
+STU-20190,Computer Science,Male,84.2,13.6,63.1,66.5,C
+STU-20191,Data Science,Non-binary,61.6,8.2,60.6,61.9,C
+STU-20192,Data Science,Male,88.0,29.9,83.1,82.1,B
+STU-20193,Mechanical Eng,Male,70.0,36.5,88.5,88.8,A
+STU-20194,Data Science,Male,96.4,11.4,70.8,68.1,C
+STU-20195,Mechanical Eng,Female,71.0,27.0,66.2,72.9,B
+STU-20196,Computer Science,Non-binary,89.1,36.6,94.4,94.2,A
+STU-20197,Computer Science,Male,63.1,8.7,54.6,54.4,D
+STU-20198,Business Admin,Male,78.0,13.8,53.3,61.7,C
+STU-20199,Electrical Eng,Non-binary,90.0,18.3,75.3,75.4,B
+STU-20200,Mechanical Eng,Male,61.5,13.8,59.0,60.0,C
+STU-20201,Data Science,Male,78.5,7.9,59.0,60.1,C
+STU-20202,Electrical Eng,Male,65.6,33.7,68.2,79.9,B
+STU-20203,Computer Science,Female,71.8,23.7,65.1,70.1,B
+STU-20204,Computer Science,Non-binary,90.5,28.7,77.5,86.8,A
+STU-20205,Computer Science,Non-binary,81.3,20.5,66.9,77.8,B
+STU-20206,Electrical Eng,Non-binary,85.6,30.1,79.6,87.3,A
+STU-20207,Computer Science,Non-binary,60.2,32.0,71.9,71.7,B
+STU-20208,Mechanical Eng,Male,96.4,12.0,63.4,74.3,B
+STU-20209,Mechanical Eng,Non-binary,86.8,12.7,71.9,70.0,B
+STU-20210,Electrical Eng,Female,89.0,6.5,51.8,56.6,C
+STU-20211,Electrical Eng,Female,85.0,37.7,82.1,88.4,A
+STU-20212,Data Science,Female,69.3,8.7,58.2,59.3,C
+STU-20213,Computer Science,Male,68.5,12.7,62.1,63.3,C
+STU-20214,Business Admin,Non-binary,85.0,6.5,68.3,68.1,C
+STU-20215,Data Science,Female,88.5,32.7,86.1,83.2,B
+STU-20216,Economics,Female,70.1,8.3,52.4,56.5,C
+STU-20217,Electrical Eng,Female,73.3,27.2,84.6,82.4,B
+STU-20218,Business Admin,Non-binary,79.3,16.7,60.1,64.9,C
+STU-20219,Electrical Eng,Non-binary,69.3,25.6,72.3,69.0,C
+STU-20220,Mechanical Eng,Female,84.7,36.4,85.1,85.0,A
+STU-20221,Economics,Female,62.4,18.1,65.6,72.1,B
+STU-20222,Mechanical Eng,Male,68.2,6.3,65.8,63.3,C
+STU-20223,Electrical Eng,Male,65.4,16.1,61.4,60.9,C
+STU-20224,Computer Science,Non-binary,91.7,19.5,72.1,80.5,B
+STU-20225,Electrical Eng,Male,73.7,12.2,48.6,56.5,C
+STU-20226,Electrical Eng,Female,92.1,29.4,83.1,87.1,A
+STU-20227,Mechanical Eng,Male,85.2,7.3,71.0,74.9,B
+STU-20228,Mechanical Eng,Female,85.4,10.0,65.7,67.8,C
+STU-20229,Mechanical Eng,Female,80.3,19.9,70.9,75.1,B
+STU-20230,Mechanical Eng,Non-binary,67.9,19.8,62.5,64.7,C
+STU-20231,Electrical Eng,Female,70.9,32.3,66.3,76.6,B
+STU-20232,Business Admin,Male,75.1,21.5,62.0,66.2,C
+STU-20233,Mechanical Eng,Male,60.8,18.3,68.6,67.2,C
+STU-20234,Business Admin,Non-binary,81.5,24.3,72.2,79.2,B
+STU-20235,Business Admin,Male,82.5,21.8,73.1,79.8,B
+STU-20236,Electrical Eng,Male,67.8,37.1,91.3,91.7,A
+STU-20237,Business Admin,Male,76.2,19.6,66.3,71.4,B
+STU-20238,Electrical Eng,Male,75.4,15.8,71.6,69.7,C
+STU-20239,Computer Science,Male,97.3,10.7,72.5,72.3,B
+STU-20240,Business Admin,Non-binary,73.9,29.8,64.8,75.2,B
+STU-20241,Data Science,Male,89.4,13.5,58.3,68.0,C
+STU-20242,Business Admin,Non-binary,88.3,6.0,61.9,63.7,C
+STU-20243,Electrical Eng,Female,70.2,26.1,74.4,71.5,B
+STU-20244,Mechanical Eng,Female,64.7,8.2,55.8,56.3,C
+STU-20245,Computer Science,Non-binary,96.4,35.7,77.1,87.3,A
+STU-20246,Data Science,Male,87.7,22.5,65.7,67.9,C
+STU-20247,Electrical Eng,Male,90.1,37.4,90.9,88.8,A
+STU-20248,Computer Science,Non-binary,82.9,32.9,76.7,86.0,A
+STU-20249,Electrical Eng,Male,88.0,5.2,53.6,60.7,C
+STU-20250,Data Science,Female,63.9,32.1,65.1,71.7,B
+STU-20251,Data Science,Female,67.1,11.5,55.8,63.6,C
+STU-20252,Data Science,Female,80.1,8.9,54.3,61.0,C
+STU-20253,Electrical Eng,Female,92.4,11.7,73.2,69.9,C
+STU-20254,Data Science,Male,85.1,26.9,75.1,82.6,B
+STU-20255,Data Science,Female,71.1,17.0,62.7,64.8,C
+STU-20256,Data Science,Male,86.9,8.5,63.3,74.3,B
+STU-20257,Economics,Female,63.9,23.3,61.6,72.3,B
+STU-20258,Economics,Non-binary,99.5,31.6,87.3,95.2,A
+STU-20259,Data Science,Male,74.8,36.2,85.6,81.5,B
+STU-20260,Mechanical Eng,Male,86.6,18.2,72.0,78.6,B
+STU-20261,Computer Science,Female,78.3,29.4,81.1,81.5,B
+STU-20262,Mechanical Eng,Female,84.1,35.4,86.6,85.5,A
+STU-20263,Business Admin,Male,84.7,28.1,84.1,89.0,A
+STU-20264,Data Science,Non-binary,67.5,39.5,78.8,92.4,A
+STU-20265,Business Admin,Female,98.8,30.8,85.5,86.7,A
+STU-20266,Mechanical Eng,Non-binary,79.4,30.9,85.8,82.7,B
+STU-20267,Data Science,Non-binary,94.3,36.7,87.3,87.6,A
+STU-20268,Business Admin,Non-binary,67.8,10.0,54.8,53.7,D
+STU-20269,Economics,Female,65.1,32.9,69.6,76.5,B
+STU-20270,Electrical Eng,Non-binary,99.5,21.3,86.8,91.7,A
+STU-20271,Economics,Female,69.7,11.0,56.2,54.1,D
+STU-20272,Electrical Eng,Female,64.2,39.8,85.9,93.8,A
+STU-20273,Data Science,Male,68.8,14.0,62.2,65.8,C
+STU-20274,Electrical Eng,Female,86.6,37.3,86.4,85.6,A
+STU-20275,Business Admin,Female,97.3,31.8,82.5,85.0,A
+STU-20276,Electrical Eng,Male,75.1,30.1,77.0,78.7,B
+STU-20277,Economics,Male,92.3,12.8,58.8,67.3,C
+STU-20278,Computer Science,Female,63.6,30.9,72.3,82.8,B
+STU-20279,Business Admin,Female,94.1,38.4,87.1,90.2,A
+STU-20280,Computer Science,Male,62.5,23.7,70.4,77.0,B
+STU-20281,Business Admin,Non-binary,97.4,9.4,59.0,60.0,C
+STU-20282,Economics,Female,64.3,5.3,58.4,57.6,C
+STU-20283,Business Admin,Female,80.0,21.0,68.2,70.3,B
+STU-20284,Mechanical Eng,Non-binary,86.6,33.0,76.7,84.1,B
+STU-20285,Electrical Eng,Female,70.9,34.7,72.1,74.7,B
+STU-20286,Electrical Eng,Female,79.8,29.6,64.6,70.5,B
+STU-20287,Electrical Eng,Female,93.9,37.7,89.5,100.0,A
+STU-20288,Electrical Eng,Female,96.9,32.2,86.0,94.5,A
+STU-20289,Electrical Eng,Female,99.6,24.2,71.5,77.9,B
+STU-20290,Electrical Eng,Male,99.6,31.5,77.3,85.3,A
+STU-20291,Electrical Eng,Female,88.0,24.2,72.5,83.4,B
+STU-20292,Business Admin,Non-binary,94.6,6.9,70.9,72.3,B
+STU-20293,Economics,Female,77.7,21.9,74.0,71.9,B
+STU-20294,Mechanical Eng,Female,92.2,11.8,70.1,68.6,C
+STU-20295,Computer Science,Non-binary,91.4,35.0,79.3,85.7,A
+STU-20296,Data Science,Non-binary,93.7,37.4,88.6,100.0,A
+STU-20297,Computer Science,Female,99.2,27.8,91.6,94.6,A
+STU-20298,Mechanical Eng,Non-binary,88.9,13.6,68.4,75.1,B
+STU-20299,Economics,Female,86.1,18.1,76.4,77.3,B
+STU-20300,Electrical Eng,Non-binary,63.6,21.2,67.8,69.4,C
+STU-20301,Data Science,Male,60.5,9.1,45.5,52.0,D
+STU-20302,Electrical Eng,Non-binary,96.3,12.9,57.9,61.2,C
+STU-20303,Electrical Eng,Non-binary,63.8,25.8,58.9,63.5,C
+STU-20304,Electrical Eng,Non-binary,77.3,25.0,79.9,77.4,B
+STU-20305,Economics,Female,76.2,29.5,74.4,80.1,B
+STU-20306,Economics,Non-binary,79.5,23.2,69.0,68.5,C
+STU-20307,Computer Science,Female,98.6,36.4,79.3,89.5,A
+STU-20308,Economics,Non-binary,67.2,24.4,63.2,72.2,B
+STU-20309,Mechanical Eng,Non-binary,66.4,24.7,70.3,68.9,C
+STU-20310,Computer Science,Female,99.2,22.7,73.6,78.7,B
+STU-20311,Electrical Eng,Female,69.9,6.6,65.5,63.0,C
+STU-20312,Business Admin,Non-binary,81.4,9.9,63.2,61.2,C
+STU-20313,Business Admin,Non-binary,81.5,12.3,58.9,67.7,C
+STU-20314,Computer Science,Female,61.5,10.0,52.4,59.8,C
+STU-20315,Economics,Female,83.7,14.7,67.2,67.5,C
+STU-20316,Data Science,Female,82.0,14.1,63.3,67.3,C
+STU-20317,Business Admin,Non-binary,77.0,29.3,73.5,76.8,B
+STU-20318,Computer Science,Non-binary,89.3,39.8,84.6,91.5,A
+STU-20319,Electrical Eng,Non-binary,92.8,26.2,74.7,80.0,B
+STU-20320,Mechanical Eng,Male,99.7,20.2,76.0,87.8,A
+STU-20321,Computer Science,Non-binary,64.4,24.2,61.5,71.2,B
+STU-20322,Electrical Eng,Female,74.5,16.7,59.7,66.7,C
+STU-20323,Computer Science,Female,75.1,38.9,89.0,96.1,A
+STU-20324,Computer Science,Female,67.0,30.5,69.2,73.0,B
+STU-20325,Economics,Male,88.0,35.3,93.2,97.1,A
+STU-20326,Economics,Female,95.9,11.0,70.6,76.8,B
+STU-20327,Electrical Eng,Non-binary,98.7,23.6,79.2,81.7,B
+STU-20328,Data Science,Male,83.7,14.1,65.5,66.7,C
+STU-20329,Mechanical Eng,Male,82.7,14.4,64.4,62.3,C
+STU-20330,Electrical Eng,Male,88.3,13.7,57.8,65.2,C
+STU-20331,Business Admin,Male,80.1,14.7,59.8,63.9,C
+STU-20332,Electrical Eng,Female,72.2,35.0,79.1,86.7,A
+STU-20333,Computer Science,Non-binary,63.2,30.5,75.8,73.0,B
+STU-20334,Mechanical Eng,Non-binary,62.3,31.0,70.9,69.2,C
+STU-20335,Data Science,Non-binary,80.3,30.6,75.4,79.7,B
+STU-20336,Economics,Non-binary,99.9,36.1,89.7,92.2,A
+STU-20337,Electrical Eng,Female,88.6,29.6,79.3,79.3,B
+STU-20338,Mechanical Eng,Non-binary,86.4,37.2,98.7,100.0,A
+STU-20339,Computer Science,Non-binary,77.9,10.9,67.1,64.8,C
+STU-20340,Economics,Female,67.0,17.8,59.5,69.2,C
+STU-20341,Data Science,Male,66.8,38.9,79.2,86.3,A
+STU-20342,Electrical Eng,Female,93.3,34.8,87.8,92.8,A
+STU-20343,Business Admin,Female,60.1,27.1,62.7,67.5,C
+STU-20344,Business Admin,Non-binary,80.6,36.3,97.9,96.0,A
+STU-20345,Computer Science,Male,60.2,21.1,56.2,61.8,C
+STU-20346,Computer Science,Female,74.0,30.3,73.3,78.3,B
+STU-20347,Mechanical Eng,Female,81.2,36.4,81.1,87.0,A
+STU-20348,Data Science,Female,66.2,28.0,67.9,74.6,B
+STU-20349,Data Science,Female,81.5,14.4,77.6,74.1,B
+STU-20350,Electrical Eng,Male,66.5,17.4,62.7,61.2,C
+STU-20351,Mechanical Eng,Female,67.6,6.4,54.9,59.1,C
+STU-20352,Electrical Eng,Male,96.0,10.6,72.5,73.7,B
+STU-20353,Business Admin,Female,76.8,24.3,81.4,80.6,B
+STU-20354,Electrical Eng,Female,73.0,31.8,86.9,84.0,B
+STU-20355,Data Science,Female,64.4,8.8,46.0,53.8,D
+STU-20356,Mechanical Eng,Male,80.0,31.9,76.4,83.2,B
+STU-20357,Economics,Non-binary,60.3,21.8,67.2,74.1,B
+STU-20358,Computer Science,Male,69.9,10.3,57.6,57.4,C
+STU-20359,Business Admin,Non-binary,69.9,33.7,70.9,79.7,B
+STU-20360,Electrical Eng,Female,88.0,22.6,82.1,84.8,B
+STU-20361,Electrical Eng,Female,69.2,9.6,64.0,74.6,B
+STU-20362,Mechanical Eng,Female,77.1,26.6,73.1,78.5,B
+STU-20363,Business Admin,Non-binary,85.3,13.1,64.7,70.5,B
+STU-20364,Data Science,Female,80.4,27.5,70.5,77.8,B
+STU-20365,Business Admin,Non-binary,76.7,16.2,62.2,72.4,B
+STU-20366,Computer Science,Female,62.1,31.1,78.5,76.1,B
+STU-20367,Computer Science,Male,67.4,38.2,81.2,88.0,A
+STU-20368,Business Admin,Female,63.9,5.5,41.7,45.5,D
+STU-20369,Electrical Eng,Male,89.7,25.6,75.9,78.2,B
+STU-20370,Mechanical Eng,Non-binary,71.0,25.5,74.0,75.8,B
+STU-20371,Economics,Female,61.6,38.9,84.2,82.0,B
+STU-20372,Mechanical Eng,Female,88.2,37.4,88.0,95.8,A
+STU-20373,Electrical Eng,Male,99.6,12.1,76.9,77.4,B
+STU-20374,Computer Science,Female,67.7,24.3,72.9,71.4,B
+STU-20375,Economics,Male,95.8,20.7,89.5,90.1,A
+STU-20376,Data Science,Female,79.3,23.3,74.0,83.8,B
+STU-20377,Business Admin,Non-binary,98.7,15.1,77.0,74.0,B
+STU-20378,Computer Science,Non-binary,67.6,33.5,69.3,72.7,B
+STU-20379,Computer Science,Female,77.5,22.8,71.6,74.4,B
+STU-20380,Data Science,Male,84.3,12.2,72.6,75.0,B
+STU-20381,Computer Science,Non-binary,78.2,29.8,76.7,80.3,B
+STU-20382,Business Admin,Female,71.9,14.4,65.0,67.9,C
+STU-20383,Business Admin,Female,85.6,38.0,83.4,92.1,A
+STU-20384,Mechanical Eng,Male,94.9,6.8,74.4,83.4,B
+STU-20385,Computer Science,Female,85.9,27.1,82.6,79.1,B
+STU-20386,Business Admin,Female,97.9,35.9,95.3,92.6,A
+STU-20387,Business Admin,Male,99.4,26.9,75.8,88.9,A
+STU-20388,Business Admin,Female,89.2,14.8,71.2,72.5,B
+STU-20389,Economics,Female,88.9,29.1,88.0,84.7,B
+STU-20390,Business Admin,Non-binary,85.4,24.3,72.3,80.0,B
+STU-20391,Economics,Non-binary,92.3,31.4,73.8,83.8,B
+STU-20392,Mechanical Eng,Non-binary,89.1,17.9,68.1,76.8,B
+STU-20393,Mechanical Eng,Female,67.6,22.2,68.2,68.5,C
+STU-20394,Electrical Eng,Male,60.8,10.7,58.4,60.1,C
+STU-20395,Computer Science,Female,62.9,13.6,67.6,65.5,C
+STU-20396,Data Science,Female,89.0,9.8,59.5,68.4,C
+STU-20397,Data Science,Female,64.4,5.5,55.3,54.4,D
+STU-20398,Computer Science,Female,69.9,7.9,54.3,63.7,C
+STU-20399,Computer Science,Female,81.7,33.6,91.8,90.0,A
+STU-20400,Computer Science,Female,65.6,31.6,76.3,83.7,B
+STU-20401,Data Science,Female,69.8,24.0,60.0,66.4,C
+STU-20402,Economics,Female,60.8,6.6,53.8,52.4,D
+STU-20403,Data Science,Female,60.0,12.9,52.6,58.7,C
+STU-20404,Data Science,Female,74.1,15.0,72.4,73.3,B
+STU-20405,Electrical Eng,Female,79.7,39.7,76.2,85.1,A
+STU-20406,Business Admin,Male,63.1,16.7,48.8,56.3,C
+STU-20407,Computer Science,Non-binary,66.0,20.0,69.8,76.1,B
+STU-20408,Mechanical Eng,Non-binary,77.0,36.3,74.5,82.1,B
+STU-20409,Computer Science,Male,96.6,28.2,82.6,79.7,B
+STU-20410,Electrical Eng,Female,91.6,35.2,86.5,98.4,A
+STU-20411,Mechanical Eng,Male,77.9,32.9,85.0,81.3,B
+STU-20412,Computer Science,Female,83.1,38.6,93.0,88.7,A
+STU-20413,Mechanical Eng,Male,74.1,22.3,70.6,74.6,B
+STU-20414,Data Science,Non-binary,91.7,16.7,69.6,77.4,B
+STU-20415,Data Science,Non-binary,79.9,23.7,66.0,69.0,C
+STU-20416,Mechanical Eng,Male,63.3,30.0,66.6,65.8,C
+STU-20417,Mechanical Eng,Non-binary,63.5,17.7,56.2,63.1,C
+STU-20418,Computer Science,Male,82.3,38.5,83.1,90.3,A
+STU-20419,Mechanical Eng,Male,78.4,34.2,79.6,82.9,B
+STU-20420,Data Science,Female,68.4,12.9,61.9,62.6,C
+STU-20421,Mechanical Eng,Male,89.3,29.4,76.4,81.7,B
+STU-20422,Computer Science,Non-binary,64.2,25.4,56.8,64.4,C
+STU-20423,Mechanical Eng,Male,65.7,13.6,53.8,63.1,C
+STU-20424,Data Science,Female,90.6,21.4,85.6,82.3,B
+STU-20425,Data Science,Male,88.9,20.5,80.0,81.7,B
+STU-20426,Computer Science,Male,64.5,7.1,46.2,52.2,D
+STU-20427,Mechanical Eng,Female,75.9,19.8,68.5,65.9,C
+STU-20428,Data Science,Non-binary,88.5,14.0,60.7,67.8,C
+STU-20429,Mechanical Eng,Male,98.9,23.3,85.0,81.3,B
+STU-20430,Mechanical Eng,Non-binary,68.5,26.7,74.3,74.4,B
+STU-20431,Economics,Non-binary,93.7,33.6,87.3,92.5,A
+STU-20432,Business Admin,Non-binary,85.7,34.0,89.2,91.1,A
+STU-20433,Mechanical Eng,Male,64.3,7.7,62.7,64.6,C
+STU-20434,Business Admin,Female,69.6,10.7,54.6,64.1,C
+STU-20435,Business Admin,Female,82.1,27.3,70.1,81.8,B
+STU-20436,Business Admin,Female,99.1,24.8,65.6,76.3,B
+STU-20437,Business Admin,Female,97.7,5.3,59.8,64.9,C
+STU-20438,Business Admin,Male,80.0,16.0,58.0,66.2,C
+STU-20439,Electrical Eng,Female,73.3,36.4,82.1,86.4,A
+STU-20440,Economics,Female,60.9,32.9,56.3,65.7,C
+STU-20441,Mechanical Eng,Female,87.3,7.8,65.9,67.6,C
+STU-20442,Electrical Eng,Female,95.4,33.3,75.0,85.0,A
+STU-20443,Economics,Non-binary,99.7,26.3,75.3,78.9,B
+STU-20444,Business Admin,Male,91.4,16.9,64.4,68.8,C
+STU-20445,Electrical Eng,Non-binary,75.5,12.3,70.6,72.6,B
+STU-20446,Computer Science,Female,82.7,39.8,90.9,90.6,A
+STU-20447,Business Admin,Non-binary,94.7,32.9,92.3,89.7,A
+STU-20448,Data Science,Female,78.2,10.9,62.3,64.5,C
+STU-20449,Business Admin,Female,62.8,29.9,71.4,75.8,B
+STU-20450,Data Science,Male,90.5,20.5,92.0,88.1,A
+STU-20451,Data Science,Female,74.5,15.0,57.2,61.4,C
+STU-20452,Economics,Non-binary,65.2,17.8,66.8,72.2,B
+STU-20453,Electrical Eng,Male,80.2,14.2,59.7,58.2,C
+STU-20454,Electrical Eng,Female,84.8,27.5,81.8,80.7,B
+STU-20455,Computer Science,Female,94.1,15.2,62.7,71.1,B
+STU-20456,Data Science,Female,68.9,35.6,74.4,78.8,B
+STU-20457,Economics,Male,64.4,11.3,48.6,55.8,C
+STU-20458,Data Science,Male,68.0,16.5,55.4,58.5,C
+STU-20459,Electrical Eng,Non-binary,79.0,14.7,71.8,83.7,B
+STU-20460,Mechanical Eng,Male,65.8,12.5,48.0,47.8,D
+STU-20461,Computer Science,Male,91.6,39.2,77.5,86.8,A
+STU-20462,Mechanical Eng,Female,98.1,28.9,75.0,86.5,A
+STU-20463,Computer Science,Male,76.2,15.4,74.3,74.9,B
+STU-20464,Data Science,Non-binary,68.6,36.3,84.5,82.1,B
+STU-20465,Data Science,Male,98.5,15.4,69.6,78.2,B
+STU-20466,Data Science,Male,79.0,29.1,77.4,84.0,B
+STU-20467,Electrical Eng,Non-binary,75.6,5.3,66.4,66.0,C
+STU-20468,Economics,Female,63.1,28.4,73.0,69.7,C
+STU-20469,Electrical Eng,Non-binary,93.0,30.7,71.5,83.8,B
+STU-20470,Data Science,Female,80.0,16.1,64.8,71.8,B
+STU-20471,Electrical Eng,Female,99.5,38.0,89.9,88.0,A
+STU-20472,Electrical Eng,Male,85.6,25.2,77.7,87.5,A
+STU-20473,Electrical Eng,Non-binary,91.0,26.0,75.1,84.1,B
+STU-20474,Mechanical Eng,Female,98.9,25.2,80.1,93.9,A
+STU-20475,Business Admin,Non-binary,92.8,9.4,67.0,70.5,B
+STU-20476,Data Science,Male,76.4,17.3,63.7,63.5,C
+STU-20477,Computer Science,Female,78.4,18.1,66.5,69.2,C
+STU-20478,Mechanical Eng,Non-binary,77.4,15.0,62.4,63.9,C
+STU-20479,Electrical Eng,Non-binary,97.5,36.7,75.7,87.0,A
+STU-20480,Computer Science,Female,63.6,5.6,57.1,57.1,C
+STU-20481,Economics,Non-binary,64.0,20.5,63.8,66.0,C
+STU-20482,Computer Science,Non-binary,71.6,19.7,65.1,70.3,B
+STU-20483,Mechanical Eng,Male,98.0,17.3,84.2,83.5,B
+STU-20484,Data Science,Male,96.3,27.6,90.0,86.7,A
+STU-20485,Mechanical Eng,Non-binary,71.3,35.8,69.8,77.3,B
+STU-20486,Data Science,Non-binary,69.7,36.5,71.6,81.3,B
+STU-20487,Business Admin,Non-binary,92.8,26.0,76.5,83.4,B
+STU-20488,Economics,Male,69.7,39.1,88.1,86.7,A
+STU-20489,Economics,Male,65.2,27.3,83.2,79.6,B
+STU-20490,Mechanical Eng,Male,96.2,23.1,80.6,79.8,B
+STU-20491,Economics,Female,85.3,32.4,87.5,85.9,A
+STU-20492,Electrical Eng,Male,93.5,10.6,59.8,69.9,C
+STU-20493,Computer Science,Non-binary,90.8,10.4,69.7,71.6,B
+STU-20494,Economics,Female,82.9,5.9,60.1,61.5,C
+STU-20495,Business Admin,Female,69.6,36.4,61.6,67.7,C
+STU-20496,Economics,Female,89.1,33.2,72.6,84.4,B
+STU-20497,Computer Science,Female,85.1,27.3,80.7,83.6,B
+STU-20498,Computer Science,Female,78.4,25.9,82.6,80.3,B
+STU-20499,Computer Science,Female,79.8,17.6,74.8,73.5,B
+STU-20500,Data Science,Female,79.6,5.8,63.0,72.8,B
+STU-20501,Electrical Eng,Male,75.0,16.0,75.7,73.4,B
+STU-20502,Mechanical Eng,Female,72.0,36.6,81.0,79.3,B
+STU-20503,Computer Science,Male,99.7,21.9,74.3,76.4,B
+STU-20504,Economics,Female,66.3,31.0,67.9,79.3,B
+STU-20505,Computer Science,Non-binary,80.5,10.3,65.5,64.0,C
+STU-20506,Computer Science,Female,61.2,9.8,56.0,64.0,C
+STU-20507,Business Admin,Male,68.0,8.2,62.1,62.6,C
+STU-20508,Electrical Eng,Male,78.7,33.3,74.5,72.0,B
+STU-20509,Business Admin,Female,67.9,34.6,84.0,84.6,B
+STU-20510,Data Science,Female,83.3,31.8,83.7,80.4,B
+STU-20511,Data Science,Male,95.3,19.8,87.1,87.2,A
+STU-20512,Business Admin,Non-binary,64.3,18.4,68.9,66.9,C
+STU-20513,Computer Science,Male,66.7,6.2,58.2,61.1,C
+STU-20514,Economics,Male,71.7,33.9,67.1,72.9,B
+STU-20515,Computer Science,Female,67.2,16.3,55.1,54.7,D
+STU-20516,Business Admin,Female,62.9,28.0,58.2,66.5,C
+STU-20517,Business Admin,Non-binary,60.4,16.5,64.7,68.6,C
+STU-20518,Business Admin,Female,82.5,18.5,59.1,67.9,C
+STU-20519,Business Admin,Non-binary,84.3,35.9,85.6,83.8,B
+STU-20520,Computer Science,Non-binary,95.7,19.8,72.5,79.3,B
+STU-20521,Mechanical Eng,Female,92.1,22.5,79.1,75.5,B
+STU-20522,Data Science,Female,65.0,11.0,55.5,57.5,C
+STU-20523,Business Admin,Female,85.7,35.0,96.0,91.6,A
+STU-20524,Data Science,Male,65.2,38.8,84.2,88.1,A
+STU-20525,Business Admin,Non-binary,60.7,21.4,68.9,67.8,C
+STU-20526,Data Science,Non-binary,72.0,16.1,65.8,65.5,C
+STU-20527,Data Science,Non-binary,61.9,15.4,66.8,63.8,C
+STU-20528,Data Science,Non-binary,98.7,9.2,57.3,67.0,C
+STU-20529,Computer Science,Female,65.5,39.8,90.0,88.0,A
+STU-20530,Electrical Eng,Male,69.1,8.1,58.4,57.6,C
+STU-20531,Economics,Female,97.4,35.4,75.1,83.3,B
+STU-20532,Computer Science,Female,61.9,15.7,62.2,61.7,C
+STU-20533,Data Science,Male,87.9,37.4,94.4,97.7,A
+STU-20534,Computer Science,Female,72.8,10.2,55.5,53.9,D
+STU-20535,Electrical Eng,Male,86.7,23.3,65.9,73.4,B
+STU-20536,Data Science,Non-binary,79.6,14.8,60.4,69.5,C
+STU-20537,Business Admin,Non-binary,63.3,24.5,65.8,64.2,C
+STU-20538,Electrical Eng,Non-binary,89.4,12.2,70.9,82.3,B
+STU-20539,Computer Science,Non-binary,68.6,33.6,76.0,85.6,A
+STU-20540,Computer Science,Male,68.3,25.7,63.2,63.1,C
+STU-20541,Business Admin,Non-binary,78.2,10.4,59.8,62.9,C
+STU-20542,Mechanical Eng,Female,96.7,18.5,63.9,71.8,B
+STU-20543,Data Science,Female,62.7,19.8,67.1,68.0,C
+STU-20544,Economics,Non-binary,64.1,21.1,59.2,69.4,C
+STU-20545,Data Science,Female,70.7,21.7,68.9,72.1,B
+STU-20546,Business Admin,Male,64.7,24.3,63.4,68.2,C
+STU-20547,Data Science,Non-binary,73.3,20.4,67.8,73.4,B
+STU-20548,Computer Science,Non-binary,75.3,37.5,76.3,86.2,A
+STU-20549,Business Admin,Non-binary,84.3,23.2,70.0,80.3,B
+STU-20550,Computer Science,Non-binary,70.0,8.9,65.7,68.1,C
+STU-20551,Mechanical Eng,Female,81.3,14.6,78.2,76.2,B
+STU-20552,Electrical Eng,Non-binary,76.2,18.8,71.5,72.3,B
+STU-20553,Data Science,Female,66.8,12.1,69.0,70.6,B
+STU-20554,Electrical Eng,Non-binary,71.5,5.1,60.4,62.0,C
+STU-20555,Electrical Eng,Male,94.1,29.1,84.8,95.9,A
+STU-20556,Electrical Eng,Female,66.7,16.6,51.8,52.7,D
+STU-20557,Data Science,Male,60.8,39.1,86.4,84.2,B
+STU-20558,Mechanical Eng,Non-binary,90.4,5.3,52.7,62.0,C
+STU-20559,Mechanical Eng,Male,64.4,33.7,79.3,82.3,B
+STU-20560,Business Admin,Female,81.0,10.9,61.5,67.5,C
+STU-20561,Electrical Eng,Male,78.1,30.7,86.6,82.6,B
+STU-20562,Business Admin,Non-binary,79.5,17.8,75.1,75.7,B
+STU-20563,Economics,Non-binary,94.3,36.6,89.5,92.4,A
+STU-20564,Computer Science,Male,87.4,30.5,100.0,98.1,A
+STU-20565,Electrical Eng,Female,74.3,6.1,59.3,61.4,C
+STU-20566,Electrical Eng,Male,74.4,31.1,82.0,83.9,B
+STU-20567,Business Admin,Non-binary,87.2,36.5,94.0,100.0,A
+STU-20568,Economics,Female,70.6,28.8,74.8,80.1,B
+STU-20569,Business Admin,Male,67.6,25.3,68.4,69.1,C
+STU-20570,Economics,Female,77.3,20.9,73.8,81.3,B
+STU-20571,Computer Science,Male,97.1,10.1,69.2,70.2,B
+STU-20572,Economics,Male,85.0,28.3,81.1,80.3,B
+STU-20573,Computer Science,Male,61.6,14.9,63.4,65.5,C
+STU-20574,Computer Science,Male,72.2,20.1,62.9,69.9,C
+STU-20575,Business Admin,Male,91.4,22.6,82.8,79.5,B
+STU-20576,Economics,Female,98.1,30.0,87.4,93.3,A
+STU-20577,Computer Science,Male,68.8,21.6,70.1,76.1,B
+STU-20578,Electrical Eng,Non-binary,75.4,19.0,81.8,79.1,B
+STU-20579,Economics,Male,66.9,20.3,63.6,62.0,C
+STU-20580,Economics,Female,87.3,12.0,67.1,73.7,B
+STU-20581,Computer Science,Male,82.7,27.0,81.0,84.5,B
+STU-20582,Data Science,Male,63.8,23.4,66.3,67.2,C
+STU-20583,Business Admin,Male,74.2,21.3,69.0,66.2,C
+STU-20584,Data Science,Female,96.5,5.9,60.2,68.5,C
+STU-20585,Business Admin,Female,83.2,18.1,68.8,70.6,B
+STU-20586,Economics,Male,62.1,34.6,78.0,82.8,B
+STU-20587,Economics,Male,93.6,8.0,67.0,74.1,B
+STU-20588,Electrical Eng,Female,73.3,8.4,54.6,59.6,C
+STU-20589,Computer Science,Female,89.6,28.6,89.1,89.3,A
+STU-20590,Computer Science,Non-binary,68.2,10.0,53.6,59.9,C
+STU-20591,Electrical Eng,Non-binary,94.1,15.5,63.1,69.2,C
+STU-20592,Computer Science,Male,84.9,12.0,73.0,71.2,B
+STU-20593,Economics,Female,69.9,8.6,52.2,61.0,C
+STU-20594,Economics,Male,75.6,37.4,74.0,83.4,B
+STU-20595,Mechanical Eng,Non-binary,70.4,26.4,74.7,79.7,B
+STU-20596,Electrical Eng,Non-binary,64.9,10.1,61.7,61.8,C
+STU-20597,Mechanical Eng,Female,80.5,29.5,72.3,81.2,B
+STU-20598,Data Science,Male,71.6,8.5,51.0,56.4,C
+STU-20599,Data Science,Non-binary,92.0,21.2,77.2,76.2,B
+STU-20600,Mechanical Eng,Female,71.3,9.2,47.8,55.8,C
+STU-20601,Electrical Eng,Non-binary,84.8,6.5,70.4,68.3,C
+STU-20602,Mechanical Eng,Male,95.3,21.0,78.8,82.9,B
+STU-20603,Economics,Female,74.0,29.7,72.9,78.5,B
+STU-20604,Computer Science,Female,86.2,17.3,71.9,72.4,B
+STU-20605,Mechanical Eng,Male,91.4,28.0,82.3,79.5,B
+STU-20606,Computer Science,Non-binary,79.3,38.7,84.5,85.2,A
+STU-20607,Economics,Non-binary,81.0,9.5,57.7,63.1,C
+STU-20608,Economics,Male,83.4,34.0,86.4,86.7,A
+STU-20609,Mechanical Eng,Female,86.6,22.5,77.0,78.1,B
+STU-20610,Business Admin,Female,99.3,33.3,93.7,91.0,A
+STU-20611,Mechanical Eng,Non-binary,95.7,31.5,79.2,84.8,B
+STU-20612,Computer Science,Female,84.5,9.0,67.3,67.1,C
+STU-20613,Economics,Non-binary,93.6,37.3,82.9,90.7,A
+STU-20614,Electrical Eng,Male,75.1,39.6,75.4,83.7,B
+STU-20615,Data Science,Non-binary,71.4,12.0,54.4,61.7,C
+STU-20616,Economics,Female,63.4,5.8,49.0,57.2,C
+STU-20617,Mechanical Eng,Female,74.4,19.3,66.8,69.6,C
+STU-20618,Computer Science,Male,67.4,30.5,78.2,82.4,B
+STU-20619,Mechanical Eng,Non-binary,93.1,22.5,70.4,76.4,B
+STU-20620,Economics,Female,92.1,20.4,68.4,71.0,B
+STU-20621,Mechanical Eng,Non-binary,71.9,9.1,48.2,53.8,D
+STU-20622,Economics,Non-binary,73.2,12.8,67.5,75.0,B
+STU-20623,Electrical Eng,Male,62.7,35.5,77.6,74.4,B
+STU-20624,Computer Science,Non-binary,83.0,34.9,85.1,91.5,A
+STU-20625,Computer Science,Non-binary,87.9,8.9,61.2,64.8,C
+STU-20626,Business Admin,Non-binary,61.2,16.8,62.8,62.6,C
+STU-20627,Mechanical Eng,Female,81.9,30.7,89.8,86.8,A
+STU-20628,Electrical Eng,Female,69.4,7.6,68.5,69.1,C
+STU-20629,Computer Science,Male,99.2,38.2,89.0,91.8,A
+STU-20630,Economics,Female,95.5,21.8,75.0,86.1,A
+STU-20631,Data Science,Non-binary,69.0,17.3,68.4,72.3,B
+STU-20632,Mechanical Eng,Female,97.2,5.9,67.3,69.3,C
+STU-20633,Data Science,Non-binary,87.3,5.6,57.9,61.2,C
+STU-20634,Data Science,Male,87.8,20.0,69.1,73.7,B
+STU-20635,Economics,Male,74.1,17.0,71.7,69.4,C
+STU-20636,Mechanical Eng,Female,63.7,5.4,48.3,47.7,D
+STU-20637,Economics,Non-binary,61.8,33.1,82.5,80.5,B
+STU-20638,Mechanical Eng,Female,63.1,9.4,53.7,58.4,C
+STU-20639,Electrical Eng,Female,99.9,9.5,68.7,73.9,B
+STU-20640,Electrical Eng,Female,86.3,7.7,68.2,68.8,C
+STU-20641,Business Admin,Female,77.7,15.6,62.1,67.3,C
+STU-20642,Economics,Male,94.8,13.5,73.9,77.1,B
+STU-20643,Computer Science,Female,73.9,19.4,70.1,67.4,C
+STU-20644,Data Science,Male,63.1,36.9,75.7,83.1,B
+STU-20645,Economics,Female,64.9,30.4,70.7,70.2,B
+STU-20646,Computer Science,Female,87.9,27.7,76.0,80.0,B
+STU-20647,Computer Science,Male,71.1,18.4,70.0,68.9,C
+STU-20648,Computer Science,Female,71.2,26.3,59.9,64.6,C
+STU-20649,Computer Science,Female,68.2,11.5,57.9,61.8,C
+STU-20650,Computer Science,Non-binary,72.2,24.0,70.4,72.4,B
+STU-20651,Business Admin,Male,92.4,25.7,83.6,83.5,B
+STU-20652,Business Admin,Non-binary,93.2,20.2,71.0,71.2,B
+STU-20653,Computer Science,Female,82.1,38.3,95.4,92.0,A
+STU-20654,Business Admin,Non-binary,78.5,25.0,62.6,70.9,B
+STU-20655,Data Science,Male,89.8,37.4,77.4,88.3,A
+STU-20656,Computer Science,Male,92.0,38.3,91.7,95.7,A
+STU-20657,Business Admin,Non-binary,75.8,26.5,72.4,78.5,B
+STU-20658,Electrical Eng,Male,91.3,33.4,83.1,86.2,A
+STU-20659,Business Admin,Male,93.9,20.5,66.0,77.3,B
+STU-20660,Computer Science,Male,61.5,17.6,55.4,59.5,C
+STU-20661,Economics,Female,71.1,26.4,63.6,69.7,C
+STU-20662,Computer Science,Male,67.2,31.8,66.3,75.7,B
+STU-20663,Electrical Eng,Female,65.9,26.6,71.0,82.6,B
+STU-20664,Computer Science,Non-binary,61.5,29.0,66.1,77.0,B
+STU-20665,Electrical Eng,Female,62.4,30.0,62.1,68.9,C
+STU-20666,Business Admin,Female,87.1,35.0,80.5,83.0,B
+STU-20667,Business Admin,Female,63.1,20.5,69.5,73.0,B
+STU-20668,Mechanical Eng,Female,73.0,18.0,69.4,70.9,B
+STU-20669,Business Admin,Female,61.0,26.2,60.6,65.7,C
+STU-20670,Data Science,Non-binary,75.0,38.0,78.6,85.1,A
+STU-20671,Business Admin,Female,96.5,5.9,67.5,69.5,C
+STU-20672,Business Admin,Non-binary,88.6,31.0,90.2,86.9,A
+STU-20673,Data Science,Non-binary,61.3,30.4,61.2,66.1,C
+STU-20674,Electrical Eng,Female,98.2,38.6,100.0,100.0,A
+STU-20675,Electrical Eng,Non-binary,89.4,23.9,69.6,79.6,B
+STU-20676,Economics,Female,84.3,28.1,68.4,76.9,B
+STU-20677,Economics,Male,96.4,16.5,76.9,76.2,B
+STU-20678,Business Admin,Female,78.2,31.2,83.7,84.0,B
+STU-20679,Data Science,Male,63.2,24.6,62.6,72.4,B
+STU-20680,Business Admin,Non-binary,79.4,13.1,69.2,68.1,C
+STU-20681,Mechanical Eng,Non-binary,69.8,36.8,77.6,78.8,B
+STU-20682,Electrical Eng,Female,84.2,32.9,77.9,83.6,B
+STU-20683,Economics,Female,83.0,27.1,82.4,82.0,B
+STU-20684,Mechanical Eng,Male,60.6,9.2,58.1,56.1,C
+STU-20685,Electrical Eng,Female,65.1,6.2,58.3,62.3,C
+STU-20686,Electrical Eng,Female,99.6,9.6,82.5,80.0,B
+STU-20687,Business Admin,Female,76.1,24.5,66.2,66.7,C
+STU-20688,Computer Science,Male,95.9,36.4,90.9,86.7,A
+STU-20689,Computer Science,Female,89.5,17.4,66.7,71.0,B
+STU-20690,Data Science,Non-binary,78.0,34.2,72.1,82.2,B
+STU-20691,Mechanical Eng,Non-binary,90.6,37.1,100.0,96.4,A
+STU-20692,Computer Science,Female,95.8,25.8,73.1,79.0,B
+STU-20693,Data Science,Female,80.3,25.6,86.1,82.9,B
+STU-20694,Computer Science,Female,71.9,16.9,55.5,57.5,C
+STU-20695,Data Science,Male,72.9,16.2,55.7,62.9,C
+STU-20696,Mechanical Eng,Female,92.6,30.7,85.8,90.0,A
+STU-20697,Economics,Non-binary,72.6,17.2,59.7,67.6,C
+STU-20698,Business Admin,Male,79.5,12.8,65.7,72.8,B
+STU-20699,Economics,Female,97.0,28.3,85.0,96.8,A
+STU-20700,Mechanical Eng,Non-binary,93.6,31.4,100.0,98.2,A
+STU-20701,Economics,Non-binary,92.0,5.2,68.9,67.8,C
+STU-20702,Computer Science,Male,68.1,38.0,71.8,75.3,B
+STU-20703,Data Science,Male,96.7,30.1,87.2,84.3,B
+STU-20704,Computer Science,Male,95.6,22.3,75.5,83.4,B
+STU-20705,Electrical Eng,Female,98.7,33.1,92.3,92.4,A
+STU-20706,Mechanical Eng,Non-binary,63.0,10.5,55.6,55.8,C
+STU-20707,Electrical Eng,Female,88.3,16.0,80.5,77.8,B
+STU-20708,Data Science,Female,97.3,32.8,84.7,86.2,A
+STU-20709,Electrical Eng,Female,98.0,27.0,85.0,94.5,A
+STU-20710,Economics,Male,94.9,12.7,71.0,75.0,B
+STU-20711,Mechanical Eng,Non-binary,79.9,9.6,68.4,70.0,B
+STU-20712,Computer Science,Non-binary,94.3,31.2,86.1,89.5,A
+STU-20713,Mechanical Eng,Non-binary,67.1,19.6,61.0,67.6,C
+STU-20714,Data Science,Non-binary,83.4,27.3,64.6,72.9,B
+STU-20715,Business Admin,Female,95.0,28.4,81.9,86.4,A
+STU-20716,Electrical Eng,Male,83.9,24.0,80.1,76.8,B
+STU-20717,Business Admin,Male,98.8,16.4,79.6,81.0,B
+STU-20718,Computer Science,Female,78.6,16.2,74.5,75.2,B
+STU-20719,Data Science,Male,84.0,29.1,74.4,86.9,A
+STU-20720,Business Admin,Non-binary,68.6,34.8,68.5,74.9,B
+STU-20721,Electrical Eng,Male,76.4,33.3,80.1,85.7,A
+STU-20722,Business Admin,Female,70.7,30.5,66.3,72.7,B
+STU-20723,Data Science,Female,82.9,10.8,66.5,74.6,B
+STU-20724,Electrical Eng,Female,97.9,26.5,70.1,82.1,B
+STU-20725,Electrical Eng,Female,92.1,8.2,73.7,74.4,B
+STU-20726,Business Admin,Non-binary,62.5,6.7,59.6,56.9,C
+STU-20727,Economics,Male,94.4,13.0,80.0,79.2,B
+STU-20728,Business Admin,Male,76.5,24.4,76.5,75.1,B
+STU-20729,Economics,Female,80.1,32.7,72.1,84.0,B
+STU-20730,Business Admin,Male,61.0,27.1,70.6,70.6,B
+STU-20731,Data Science,Non-binary,76.0,33.6,83.2,81.1,B
+STU-20732,Computer Science,Female,63.0,30.3,63.8,74.8,B
+STU-20733,Economics,Non-binary,96.8,8.3,63.1,65.2,C
+STU-20734,Data Science,Female,93.3,35.1,91.4,91.5,A
+STU-20735,Business Admin,Male,78.4,8.5,60.5,58.0,C
+STU-20736,Economics,Male,75.1,20.0,65.1,71.9,B
+STU-20737,Business Admin,Non-binary,81.3,13.6,62.6,73.4,B
+STU-20738,Data Science,Non-binary,75.7,18.0,60.3,67.4,C
+STU-20739,Computer Science,Male,90.8,20.6,72.9,77.1,B
+STU-20740,Computer Science,Non-binary,72.4,10.0,58.2,60.5,C
+STU-20741,Mechanical Eng,Male,83.7,7.9,58.9,63.3,C
+STU-20742,Data Science,Non-binary,88.9,24.8,73.2,81.3,B
+STU-20743,Business Admin,Non-binary,73.5,10.3,65.0,71.1,B
+STU-20744,Economics,Non-binary,76.3,5.2,57.1,56.6,C
+STU-20745,Economics,Male,72.5,27.8,62.5,68.4,C
+STU-20746,Electrical Eng,Male,80.6,35.1,76.1,87.4,A
+STU-20747,Electrical Eng,Female,75.0,31.5,70.7,80.1,B
+STU-20748,Electrical Eng,Female,66.6,20.3,64.8,69.3,C
+STU-20749,Mechanical Eng,Non-binary,92.1,22.1,79.3,79.3,B
+STU-20750,Economics,Male,76.0,15.4,66.1,63.9,C
+STU-20751,Electrical Eng,Male,80.9,26.5,74.1,80.2,B
+STU-20752,Electrical Eng,Female,65.7,23.3,71.4,71.9,B
+STU-20753,Economics,Non-binary,70.0,21.2,79.5,76.6,B
+STU-20754,Electrical Eng,Non-binary,99.8,37.5,93.5,99.0,A
+STU-20755,Business Admin,Male,67.2,21.5,79.6,75.9,B
+STU-20756,Computer Science,Male,88.1,12.0,64.6,74.4,B
+STU-20757,Economics,Male,83.8,7.3,65.9,67.4,C
+STU-20758,Mechanical Eng,Male,85.2,37.5,89.8,87.7,A
+STU-20759,Economics,Non-binary,72.2,26.9,78.7,84.6,B
+STU-20760,Business Admin,Non-binary,81.6,28.1,82.4,82.7,B
+STU-20761,Business Admin,Female,70.5,8.6,62.0,61.4,C
+STU-20762,Economics,Non-binary,90.6,16.6,68.3,75.4,B
+STU-20763,Electrical Eng,Non-binary,86.7,21.6,62.1,70.3,B
+STU-20764,Mechanical Eng,Female,63.7,33.1,80.8,78.8,B
+STU-20765,Business Admin,Female,95.8,6.8,67.7,71.1,B
+STU-20766,Data Science,Male,86.6,16.4,67.6,70.3,B
+STU-20767,Data Science,Male,88.2,17.4,75.5,74.2,B
+STU-20768,Business Admin,Non-binary,63.1,26.2,70.2,71.9,B
+STU-20769,Business Admin,Non-binary,65.7,20.3,66.2,70.5,B
+STU-20770,Electrical Eng,Male,87.4,24.5,64.4,75.3,B
+STU-20771,Business Admin,Male,90.8,17.1,71.8,76.8,B
+STU-20772,Economics,Non-binary,95.1,37.2,98.1,94.6,A
+STU-20773,Computer Science,Female,77.7,23.4,67.5,79.3,B
+STU-20774,Business Admin,Male,63.8,17.9,62.7,64.6,C
+STU-20775,Computer Science,Non-binary,71.0,21.8,70.5,82.1,B
+STU-20776,Electrical Eng,Non-binary,70.1,26.9,85.6,83.7,B
+STU-20777,Data Science,Non-binary,85.3,22.2,71.0,75.2,B
+STU-20778,Electrical Eng,Non-binary,92.3,6.3,68.2,77.4,B
+STU-20779,Electrical Eng,Female,94.8,9.6,67.7,72.5,B
+STU-20780,Computer Science,Female,77.7,29.9,68.9,76.1,B
+STU-20781,Mechanical Eng,Non-binary,84.6,5.6,73.7,72.4,B
+STU-20782,Business Admin,Non-binary,66.8,39.5,70.4,82.5,B
+STU-20783,Electrical Eng,Male,76.7,28.4,63.6,73.7,B
+STU-20784,Mechanical Eng,Non-binary,65.9,14.3,61.7,63.5,C
+STU-20785,Electrical Eng,Non-binary,76.4,27.2,80.2,78.7,B
+STU-20786,Computer Science,Male,71.0,17.3,63.0,63.7,C
+STU-20787,Economics,Male,63.5,37.1,75.8,85.5,A
+STU-20788,Computer Science,Female,72.7,26.9,67.0,78.6,B
+STU-20789,Electrical Eng,Male,78.4,35.7,88.6,85.3,A
+STU-20790,Business Admin,Non-binary,85.7,36.6,80.3,91.6,A
+STU-20791,Computer Science,Male,88.2,11.2,67.7,77.1,B
+STU-20792,Business Admin,Male,69.0,11.6,58.4,64.2,C
+STU-20793,Electrical Eng,Male,70.6,22.1,66.4,68.8,C
+STU-20794,Business Admin,Non-binary,80.9,34.0,86.7,83.4,B
+STU-20795,Economics,Male,66.2,24.9,71.9,68.6,C
+STU-20796,Data Science,Male,85.8,28.9,84.9,81.3,B
+STU-20797,Economics,Non-binary,91.8,8.2,73.0,72.7,B
+STU-20798,Business Admin,Female,78.7,6.1,59.3,66.8,C
+STU-20799,Mechanical Eng,Male,83.5,18.0,71.9,77.7,B

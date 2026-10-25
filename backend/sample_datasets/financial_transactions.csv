@@ -1,0 +1,1201 @@
+Transaction_ID,Transaction_Date,Category,Account_Type,Amount,Approval_Status,Is_Anomaly
+TXN-80000,2025-11-07,Office Supplies,Credit Card,4204.23,Approved,No
+TXN-80001,2025-05-14,Marketing,ACH Transfer,1276.54,Approved,No
+TXN-80002,2025-04-23,Software & Cloud,Credit Card,2464.33,Approved,No
+TXN-80003,2025-06-14,Payroll,Expense Card,37.23,Approved,No
+TXN-80004,2025-01-06,Entertainment,Credit Card,7608.76,Approved,Yes
+TXN-80005,2025-11-23,Software & Cloud,Credit Card,26.16,Flagged,No
+TXN-80006,2025-10-03,Entertainment,ACH Transfer,22.73,Approved,No
+TXN-80007,2025-06-10,Marketing,Expense Card,1233.1,Approved,No
+TXN-80008,2025-03-23,Marketing,Credit Card,6342.93,Flagged,No
+TXN-80009,2025-09-09,Marketing,Credit Card,3878.35,Approved,No
+TXN-80010,2025-07-14,Marketing,Expense Card,2170.63,Approved,No
+TXN-80011,2025-12-05,Travel,ACH Transfer,134.58,Approved,No
+TXN-80012,2025-09-22,Payroll,ACH Transfer,86.55,Flagged,No
+TXN-80013,2025-05-18,Software & Cloud,Corporate Wire,680.44,Approved,No
+TXN-80014,2025-10-23,Entertainment,Expense Card,918.31,Approved,No
+TXN-80015,2025-04-17,Consulting,Corporate Wire,5628.71,Approved,No
+TXN-80016,2025-01-09,Entertainment,Corporate Wire,31.98,Flagged,No
+TXN-80017,2025-09-28,Marketing,Credit Card,1389.81,Approved,No
+TXN-80018,2025-11-26,Entertainment,Corporate Wire,88.91,Approved,No
+TXN-80019,2025-04-07,Consulting,Credit Card,68.96,Flagged,No
+TXN-80020,2025-12-14,Office Supplies,ACH Transfer,6193.71,Approved,No
+TXN-80021,2025-06-02,Consulting,Corporate Wire,17.8,Approved,No
+TXN-80022,2025-09-28,Payroll,Expense Card,43.87,Flagged,No
+TXN-80023,2025-01-21,Entertainment,Expense Card,1476.87,Approved,No
+TXN-80024,2025-05-29,Entertainment,Credit Card,1225.26,Approved,No
+TXN-80025,2025-12-16,Office Supplies,Corporate Wire,54.67,Approved,No
+TXN-80026,2025-07-13,Consulting,ACH Transfer,3888.9,Approved,No
+TXN-80027,2025-04-26,Entertainment,Credit Card,64.73,Approved,No
+TXN-80028,2025-03-10,Marketing,Expense Card,1106.35,Approved,No
+TXN-80029,2025-12-18,Marketing,Credit Card,149.07,Approved,No
+TXN-80030,2025-07-01,Entertainment,Corporate Wire,4047.98,Approved,No
+TXN-80031,2025-04-24,Consulting,Corporate Wire,317.07,Flagged,No
+TXN-80032,2025-03-05,Payroll,Credit Card,5856.57,Approved,No
+TXN-80033,2025-04-21,Consulting,Corporate Wire,619.93,Approved,No
+TXN-80034,2025-02-09,Payroll,Credit Card,995.44,Flagged,No
+TXN-80035,2025-08-25,Travel,Expense Card,120.15,Approved,No
+TXN-80036,2025-04-17,Software & Cloud,Credit Card,238.22,Approved,No
+TXN-80037,2025-03-07,Office Supplies,Credit Card,5069.77,Flagged,No
+TXN-80038,2025-05-26,Marketing,Credit Card,7958.37,Flagged,No
+TXN-80039,2025-11-09,Marketing,ACH Transfer,33.08,Approved,No
+TXN-80040,2025-09-27,Entertainment,ACH Transfer,3503.77,Flagged,No
+TXN-80041,2025-01-14,Marketing,Corporate Wire,3108.9,Approved,No
+TXN-80042,2025-11-07,Software & Cloud,Corporate Wire,786.68,Approved,No
+TXN-80043,2025-05-11,Travel,Credit Card,3910.66,Flagged,No
+TXN-80044,2025-01-22,Payroll,ACH Transfer,1211.42,Flagged,No
+TXN-80045,2025-08-11,Consulting,Credit Card,324.78,Approved,No
+TXN-80046,2025-04-09,Travel,Credit Card,4538.83,Approved,No
+TXN-80047,2025-01-14,Entertainment,Expense Card,4082.46,Approved,No
+TXN-80048,2025-03-31,Travel,Corporate Wire,642.69,Approved,No
+TXN-80049,2025-10-20,Consulting,Credit Card,4759.08,Approved,No
+TXN-80050,2025-04-18,Office Supplies,ACH Transfer,1452.07,Approved,No
+TXN-80051,2025-09-28,Entertainment,Expense Card,3543.27,Approved,No
+TXN-80052,2025-01-24,Consulting,Corporate Wire,46.56,Approved,No
+TXN-80053,2025-07-09,Payroll,Expense Card,7344.67,Approved,No
+TXN-80054,2025-05-29,Entertainment,ACH Transfer,1415.45,Approved,No
+TXN-80055,2025-03-26,Office Supplies,Expense Card,6054.54,Flagged,No
+TXN-80056,2025-11-16,Entertainment,Expense Card,7396.83,Flagged,No
+TXN-80057,2025-09-25,Travel,ACH Transfer,5765.32,Approved,No
+TXN-80058,2025-06-19,Software & Cloud,Credit Card,7767.7,Approved,No
+TXN-80059,2025-04-08,Software & Cloud,Credit Card,1214.44,Approved,No
+TXN-80060,2025-08-09,Entertainment,Expense Card,2356.02,Approved,No
+TXN-80061,2025-08-31,Office Supplies,Corporate Wire,68.73,Flagged,No
+TXN-80062,2025-04-21,Software & Cloud,ACH Transfer,3482.72,Approved,No
+TXN-80063,2025-12-10,Marketing,ACH Transfer,5381.36,Approved,No
+TXN-80064,2025-05-26,Entertainment,Credit Card,136.13,Approved,No
+TXN-80065,2025-10-17,Payroll,Expense Card,61.08,Flagged,No
+TXN-80066,2025-07-03,Office Supplies,Corporate Wire,545.85,Flagged,No
+TXN-80067,2025-07-28,Marketing,Credit Card,481.62,Approved,No
+TXN-80068,2025-12-18,Payroll,Corporate Wire,1249.4,Approved,No
+TXN-80069,2025-04-09,Marketing,ACH Transfer,393.64,Approved,No
+TXN-80070,2025-01-21,Payroll,Credit Card,127.39,Approved,No
+TXN-80071,2025-09-21,Payroll,Expense Card,96.05,Approved,No
+TXN-80072,2025-07-18,Entertainment,Corporate Wire,1068.81,Approved,No
+TXN-80073,2025-02-03,Travel,Expense Card,995.69,Approved,No
+TXN-80074,2025-06-14,Entertainment,Credit Card,7608.84,Flagged,Yes
+TXN-80075,2025-07-30,Payroll,Corporate Wire,678.87,Approved,No
+TXN-80076,2025-08-14,Consulting,Expense Card,707.96,Approved,No
+TXN-80077,2025-07-26,Payroll,Expense Card,4239.58,Approved,No
+TXN-80078,2025-09-09,Payroll,Expense Card,8382.89,Approved,No
+TXN-80079,2025-05-15,Entertainment,Credit Card,68.63,Approved,No
+TXN-80080,2025-04-14,Software & Cloud,Expense Card,1418.41,Approved,No
+TXN-80081,2025-03-29,Payroll,Corporate Wire,2706.64,Approved,No
+TXN-80082,2025-01-06,Consulting,Corporate Wire,129.69,Approved,No
+TXN-80083,2025-03-25,Office Supplies,Credit Card,4742.35,Approved,No
+TXN-80084,2025-08-28,Software & Cloud,Expense Card,88.73,Approved,No
+TXN-80085,2025-02-08,Consulting,ACH Transfer,56.46,Approved,No
+TXN-80086,2025-03-14,Travel,Expense Card,255.9,Approved,No
+TXN-80087,2025-01-28,Marketing,Corporate Wire,1086.66,Flagged,No
+TXN-80088,2025-02-25,Office Supplies,Corporate Wire,5247.78,Approved,No
+TXN-80089,2025-02-08,Software & Cloud,Credit Card,7708.18,Approved,No
+TXN-80090,2025-11-18,Travel,Corporate Wire,4729.14,Approved,No
+TXN-80091,2025-09-09,Payroll,Expense Card,7371.17,Approved,Yes
+TXN-80092,2025-09-21,Entertainment,Corporate Wire,1494.69,Approved,No
+TXN-80093,2025-08-19,Office Supplies,Credit Card,5539.89,Flagged,No
+TXN-80094,2025-12-15,Consulting,Credit Card,1110.15,Approved,No
+TXN-80095,2025-09-23,Consulting,Corporate Wire,220.1,Approved,No
+TXN-80096,2025-12-04,Travel,Corporate Wire,39.36,Approved,No
+TXN-80097,2025-12-14,Consulting,ACH Transfer,17.0,Approved,No
+TXN-80098,2025-10-19,Consulting,Corporate Wire,113.89,Approved,No
+TXN-80099,2025-03-13,Office Supplies,ACH Transfer,91.66,Approved,No
+TXN-80100,2025-08-09,Software & Cloud,ACH Transfer,120.75,Approved,No
+TXN-80101,2025-06-19,Entertainment,Credit Card,3493.69,Flagged,No
+TXN-80102,2025-11-03,Payroll,ACH Transfer,2844.92,Approved,No
+TXN-80103,2025-11-09,Entertainment,Credit Card,4937.11,Flagged,No
+TXN-80104,2025-01-19,Entertainment,Expense Card,3529.33,Flagged,No
+TXN-80105,2025-07-19,Consulting,Expense Card,41.46,Flagged,No
+TXN-80106,2025-07-14,Marketing,Credit Card,282.53,Flagged,No
+TXN-80107,2025-09-30,Office Supplies,Expense Card,394.89,Flagged,No
+TXN-80108,2025-03-20,Payroll,Corporate Wire,5210.4,Approved,No
+TXN-80109,2025-11-26,Entertainment,ACH Transfer,6183.07,Approved,No
+TXN-80110,2025-01-27,Marketing,ACH Transfer,1062.64,Flagged,No
+TXN-80111,2025-11-14,Payroll,ACH Transfer,107.56,Approved,No
+TXN-80112,2025-10-05,Marketing,Corporate Wire,645.42,Approved,No
+TXN-80113,2025-07-21,Office Supplies,Expense Card,4294.63,Approved,No
+TXN-80114,2025-11-23,Software & Cloud,Corporate Wire,5462.57,Approved,No
+TXN-80115,2025-07-20,Entertainment,Corporate Wire,8243.09,Approved,No
+TXN-80116,2025-03-26,Consulting,ACH Transfer,4131.22,Approved,No
+TXN-80117,2025-09-05,Payroll,Corporate Wire,3089.92,Approved,No
+TXN-80118,2025-10-29,Consulting,Corporate Wire,5443.32,Approved,No
+TXN-80119,2025-04-25,Travel,Credit Card,4377.73,Flagged,No
+TXN-80120,2025-05-15,Office Supplies,Expense Card,926.29,Flagged,No
+TXN-80121,2025-12-15,Entertainment,ACH Transfer,3262.04,Approved,No
+TXN-80122,2025-09-20,Payroll,Credit Card,347.16,Approved,No
+TXN-80123,2025-04-12,Travel,ACH Transfer,549.87,Approved,No
+TXN-80124,2025-06-07,Consulting,Credit Card,789.78,Approved,No
+TXN-80125,2025-04-21,Travel,Corporate Wire,1351.93,Approved,No
+TXN-80126,2025-08-07,Software & Cloud,Expense Card,259.53,Approved,No
+TXN-80127,2025-11-26,Payroll,Credit Card,1200.69,Approved,No
+TXN-80128,2025-07-16,Consulting,Credit Card,5649.66,Approved,No
+TXN-80129,2025-09-02,Entertainment,Credit Card,7490.56,Approved,No
+TXN-80130,2025-03-25,Consulting,Corporate Wire,924.63,Flagged,No
+TXN-80131,2025-06-16,Travel,Expense Card,784.71,Approved,No
+TXN-80132,2025-09-10,Software & Cloud,ACH Transfer,1478.1,Approved,No
+TXN-80133,2025-10-29,Payroll,Expense Card,4062.63,Approved,No
+TXN-80134,2025-09-15,Software & Cloud,Corporate Wire,56.11,Flagged,No
+TXN-80135,2025-01-14,Marketing,Corporate Wire,140.9,Approved,No
+TXN-80136,2025-11-24,Marketing,Corporate Wire,94.15,Approved,No
+TXN-80137,2025-03-01,Payroll,ACH Transfer,290.02,Flagged,No
+TXN-80138,2025-09-25,Travel,Corporate Wire,6798.01,Approved,No
+TXN-80139,2025-06-05,Marketing,ACH Transfer,4489.94,Flagged,No
+TXN-80140,2025-09-13,Software & Cloud,Corporate Wire,7127.38,Flagged,No
+TXN-80141,2025-01-04,Software & Cloud,Corporate Wire,64.45,Approved,No
+TXN-80142,2025-04-18,Marketing,Credit Card,3123.68,Approved,No
+TXN-80143,2025-03-10,Payroll,Corporate Wire,5942.77,Approved,No
+TXN-80144,2025-06-06,Payroll,Credit Card,7755.63,Approved,Yes
+TXN-80145,2025-03-23,Consulting,Corporate Wire,111.87,Flagged,No
+TXN-80146,2025-09-23,Consulting,Credit Card,430.02,Flagged,No
+TXN-80147,2025-06-14,Consulting,ACH Transfer,672.14,Approved,No
+TXN-80148,2025-03-21,Consulting,Credit Card,5321.03,Flagged,No
+TXN-80149,2025-12-03,Consulting,Corporate Wire,113.49,Flagged,No
+TXN-80150,2025-11-27,Travel,Expense Card,794.32,Approved,No
+TXN-80151,2025-12-02,Office Supplies,Corporate Wire,144.15,Approved,No
+TXN-80152,2025-10-18,Office Supplies,Corporate Wire,8209.72,Approved,No
+TXN-80153,2025-10-27,Payroll,Credit Card,101.45,Approved,No
+TXN-80154,2025-12-01,Marketing,ACH Transfer,5754.43,Approved,No
+TXN-80155,2025-10-12,Marketing,ACH Transfer,358.8,Flagged,No
+TXN-80156,2025-03-24,Software & Cloud,Expense Card,1424.47,Approved,No
+TXN-80157,2025-09-13,Office Supplies,Credit Card,7361.65,Approved,No
+TXN-80158,2025-03-31,Office Supplies,Expense Card,3602.18,Flagged,No
+TXN-80159,2025-09-27,Entertainment,Expense Card,478.51,Approved,No
+TXN-80160,2025-10-13,Office Supplies,Corporate Wire,32.64,Approved,No
+TXN-80161,2025-07-06,Entertainment,Expense Card,113.44,Approved,No
+TXN-80162,2025-01-23,Travel,ACH Transfer,7270.41,Flagged,No
+TXN-80163,2025-12-17,Marketing,Corporate Wire,7710.35,Approved,No
+TXN-80164,2025-11-23,Software & Cloud,Expense Card,139.78,Approved,No
+TXN-80165,2025-05-23,Travel,ACH Transfer,2533.06,Approved,No
+TXN-80166,2025-08-24,Travel,Credit Card,8201.61,Approved,No
+TXN-80167,2025-03-18,Travel,Corporate Wire,1148.7,Approved,No
+TXN-80168,2025-06-05,Travel,Corporate Wire,79.53,Approved,No
+TXN-80169,2025-04-11,Office Supplies,Credit Card,2537.21,Flagged,No
+TXN-80170,2025-11-08,Travel,Credit Card,34.6,Approved,No
+TXN-80171,2025-03-22,Software & Cloud,Credit Card,1401.18,Flagged,No
+TXN-80172,2025-12-05,Entertainment,Corporate Wire,22.22,Approved,No
+TXN-80173,2025-07-15,Travel,Expense Card,2272.03,Approved,No
+TXN-80174,2025-03-11,Consulting,ACH Transfer,104.33,Approved,No
+TXN-80175,2025-04-20,Office Supplies,Credit Card,54.64,Approved,No
+TXN-80176,2025-04-02,Payroll,Expense Card,3959.52,Approved,No
+TXN-80177,2025-05-25,Software & Cloud,Corporate Wire,7133.94,Approved,No
+TXN-80178,2025-01-05,Marketing,ACH Transfer,147.57,Approved,No
+TXN-80179,2025-10-30,Entertainment,Corporate Wire,8289.9,Approved,No
+TXN-80180,2025-12-02,Entertainment,Credit Card,6335.18,Approved,No
+TXN-80181,2025-12-22,Software & Cloud,Expense Card,1209.27,Approved,No
+TXN-80182,2025-05-22,Software & Cloud,Corporate Wire,666.72,Flagged,No
+TXN-80183,2025-03-08,Marketing,Corporate Wire,2487.17,Approved,No
+TXN-80184,2025-03-14,Travel,Expense Card,140.58,Flagged,No
+TXN-80185,2025-10-13,Software & Cloud,Expense Card,416.26,Approved,No
+TXN-80186,2025-08-07,Consulting,Credit Card,7590.07,Approved,No
+TXN-80187,2025-06-13,Marketing,ACH Transfer,7710.82,Approved,No
+TXN-80188,2025-12-30,Payroll,ACH Transfer,276.24,Flagged,No
+TXN-80189,2025-10-16,Consulting,Expense Card,64.76,Approved,No
+TXN-80190,2025-10-30,Consulting,ACH Transfer,65.22,Approved,No
+TXN-80191,2025-02-24,Consulting,Corporate Wire,127.96,Approved,No
+TXN-80192,2025-01-31,Office Supplies,Credit Card,122.63,Flagged,No
+TXN-80193,2025-04-28,Office Supplies,Credit Card,559.02,Approved,No
+TXN-80194,2025-09-22,Consulting,Credit Card,7280.19,Approved,No
+TXN-80195,2025-10-31,Software & Cloud,Credit Card,132.24,Flagged,No
+TXN-80196,2025-04-11,Travel,Credit Card,2350.24,Approved,No
+TXN-80197,2025-02-10,Marketing,Credit Card,574.04,Flagged,No
+TXN-80198,2025-04-13,Marketing,Expense Card,2161.14,Flagged,No
+TXN-80199,2025-06-28,Software & Cloud,ACH Transfer,1114.43,Approved,No
+TXN-80200,2025-03-03,Software & Cloud,Credit Card,60.06,Flagged,No
+TXN-80201,2025-08-14,Software & Cloud,ACH Transfer,128.17,Approved,No
+TXN-80202,2025-10-27,Marketing,Credit Card,1279.9,Approved,No
+TXN-80203,2025-01-30,Travel,ACH Transfer,753.23,Approved,No
+TXN-80204,2025-02-04,Entertainment,Credit Card,21.83,Approved,No
+TXN-80205,2025-01-11,Travel,ACH Transfer,94.05,Approved,No
+TXN-80206,2025-01-02,Office Supplies,ACH Transfer,48.65,Approved,No
+TXN-80207,2025-11-09,Marketing,Credit Card,586.92,Flagged,No
+TXN-80208,2025-11-07,Entertainment,Expense Card,3291.31,Flagged,No
+TXN-80209,2025-03-03,Payroll,Expense Card,923.5,Flagged,No
+TXN-80210,2025-03-18,Travel,Corporate Wire,5152.64,Approved,No
+TXN-80211,2025-04-30,Software & Cloud,Corporate Wire,3371.08,Approved,No
+TXN-80212,2025-10-19,Office Supplies,Credit Card,2095.29,Approved,No
+TXN-80213,2025-08-09,Software & Cloud,Corporate Wire,5351.21,Approved,No
+TXN-80214,2025-02-15,Travel,Expense Card,22.41,Approved,No
+TXN-80215,2025-10-07,Travel,Credit Card,6881.02,Flagged,No
+TXN-80216,2025-02-27,Software & Cloud,Credit Card,6751.22,Approved,No
+TXN-80217,2025-09-18,Payroll,Credit Card,1306.82,Approved,No
+TXN-80218,2025-10-01,Marketing,Corporate Wire,356.32,Approved,No
+TXN-80219,2025-08-14,Office Supplies,ACH Transfer,74.09,Approved,No
+TXN-80220,2025-01-24,Office Supplies,Expense Card,79.03,Approved,No
+TXN-80221,2025-10-16,Consulting,Credit Card,6969.96,Approved,No
+TXN-80222,2025-09-19,Software & Cloud,Expense Card,7144.51,Approved,No
+TXN-80223,2025-07-20,Consulting,Expense Card,265.03,Approved,No
+TXN-80224,2025-03-02,Payroll,ACH Transfer,137.14,Approved,No
+TXN-80225,2025-01-23,Consulting,Expense Card,1035.02,Approved,No
+TXN-80226,2025-07-13,Marketing,ACH Transfer,5776.72,Flagged,No
+TXN-80227,2025-05-30,Software & Cloud,Credit Card,1404.1,Flagged,No
+TXN-80228,2025-10-07,Consulting,Corporate Wire,1416.22,Flagged,No
+TXN-80229,2025-06-09,Office Supplies,Corporate Wire,23.74,Flagged,No
+TXN-80230,2025-03-23,Software & Cloud,ACH Transfer,516.11,Approved,No
+TXN-80231,2025-09-15,Travel,Corporate Wire,50.9,Approved,No
+TXN-80232,2025-03-12,Consulting,ACH Transfer,8418.9,Approved,No
+TXN-80233,2025-01-12,Consulting,Credit Card,27.04,Approved,No
+TXN-80234,2025-12-05,Marketing,Corporate Wire,149.81,Approved,No
+TXN-80235,2025-09-01,Software & Cloud,Expense Card,135.75,Approved,No
+TXN-80236,2025-10-12,Marketing,Credit Card,69.08,Approved,No
+TXN-80237,2025-06-04,Marketing,Expense Card,361.94,Approved,No
+TXN-80238,2025-04-09,Entertainment,ACH Transfer,51.94,Flagged,No
+TXN-80239,2025-09-05,Entertainment,Credit Card,3681.5,Approved,No
+TXN-80240,2025-10-05,Office Supplies,Credit Card,131.95,Approved,No
+TXN-80241,2025-08-15,Travel,ACH Transfer,70.85,Approved,No
+TXN-80242,2025-04-05,Office Supplies,Expense Card,5548.45,Approved,No
+TXN-80243,2025-10-25,Payroll,Expense Card,4025.5,Flagged,No
+TXN-80244,2025-06-09,Office Supplies,Credit Card,8362.83,Approved,Yes
+TXN-80245,2025-03-11,Office Supplies,Corporate Wire,1093.69,Approved,No
+TXN-80246,2025-07-15,Payroll,Credit Card,2510.94,Approved,No
+TXN-80247,2025-11-02,Software & Cloud,Expense Card,4670.13,Approved,No
+TXN-80248,2025-09-21,Travel,ACH Transfer,59.23,Approved,No
+TXN-80249,2025-11-01,Travel,ACH Transfer,588.33,Approved,No
+TXN-80250,2025-05-31,Travel,Expense Card,3780.82,Flagged,No
+TXN-80251,2025-09-12,Consulting,Expense Card,21.75,Approved,No
+TXN-80252,2025-08-05,Marketing,ACH Transfer,81.15,Flagged,No
+TXN-80253,2025-06-07,Entertainment,ACH Transfer,5291.74,Approved,No
+TXN-80254,2025-03-08,Consulting,Corporate Wire,680.39,Approved,No
+TXN-80255,2025-11-21,Entertainment,Corporate Wire,119.01,Flagged,No
+TXN-80256,2025-06-21,Payroll,ACH Transfer,6516.15,Flagged,No
+TXN-80257,2025-04-06,Software & Cloud,Credit Card,582.35,Flagged,No
+TXN-80258,2025-12-22,Consulting,Expense Card,56.93,Flagged,No
+TXN-80259,2025-02-23,Travel,Credit Card,1121.88,Approved,No
+TXN-80260,2025-09-22,Office Supplies,Expense Card,7878.84,Flagged,Yes
+TXN-80261,2025-09-22,Office Supplies,Expense Card,79.96,Approved,No
+TXN-80262,2025-10-23,Software & Cloud,ACH Transfer,1221.27,Flagged,No
+TXN-80263,2025-07-29,Software & Cloud,ACH Transfer,130.12,Approved,No
+TXN-80264,2025-01-28,Software & Cloud,Corporate Wire,497.45,Approved,No
+TXN-80265,2025-08-09,Software & Cloud,ACH Transfer,7631.59,Approved,Yes
+TXN-80266,2025-11-22,Entertainment,Corporate Wire,544.15,Approved,No
+TXN-80267,2025-12-10,Travel,Corporate Wire,1342.24,Approved,No
+TXN-80268,2025-12-13,Travel,Expense Card,1048.67,Approved,No
+TXN-80269,2025-03-16,Payroll,Corporate Wire,129.14,Approved,No
+TXN-80270,2025-08-18,Payroll,ACH Transfer,999.21,Approved,No
+TXN-80271,2025-08-13,Consulting,Expense Card,3907.55,Approved,No
+TXN-80272,2025-03-28,Consulting,Credit Card,5502.82,Approved,No
+TXN-80273,2025-02-07,Entertainment,Expense Card,62.74,Flagged,No
+TXN-80274,2025-01-22,Software & Cloud,ACH Transfer,2215.8,Approved,No
+TXN-80275,2025-10-07,Marketing,Corporate Wire,51.01,Approved,No
+TXN-80276,2025-01-19,Travel,Credit Card,1129.7,Approved,No
+TXN-80277,2025-02-04,Office Supplies,Expense Card,3651.67,Approved,No
+TXN-80278,2025-05-15,Marketing,Expense Card,891.26,Approved,No
+TXN-80279,2025-11-05,Consulting,Corporate Wire,2696.5,Approved,No
+TXN-80280,2025-11-26,Software & Cloud,Credit Card,5265.2,Approved,No
+TXN-80281,2025-10-03,Entertainment,Expense Card,4766.3,Approved,No
+TXN-80282,2025-12-20,Entertainment,Credit Card,5128.07,Approved,No
+TXN-80283,2025-09-03,Entertainment,Credit Card,784.24,Approved,No
+TXN-80284,2025-02-15,Travel,Expense Card,110.91,Approved,No
+TXN-80285,2025-08-19,Office Supplies,Corporate Wire,85.4,Approved,No
+TXN-80286,2025-12-04,Payroll,Expense Card,3021.26,Approved,No
+TXN-80287,2025-09-22,Software & Cloud,Credit Card,111.08,Approved,No
+TXN-80288,2025-03-01,Travel,Credit Card,39.99,Flagged,No
+TXN-80289,2025-08-11,Consulting,Expense Card,5301.5,Flagged,No
+TXN-80290,2025-07-17,Payroll,Credit Card,308.69,Flagged,No
+TXN-80291,2025-02-17,Entertainment,ACH Transfer,1141.86,Approved,No
+TXN-80292,2025-05-05,Payroll,Credit Card,1181.65,Flagged,No
+TXN-80293,2025-10-09,Entertainment,Corporate Wire,7631.3,Approved,No
+TXN-80294,2025-01-02,Travel,Corporate Wire,1492.96,Approved,No
+TXN-80295,2025-07-09,Travel,ACH Transfer,1438.25,Approved,No
+TXN-80296,2025-01-11,Marketing,Credit Card,1464.18,Approved,No
+TXN-80297,2025-02-07,Travel,Credit Card,137.17,Approved,No
+TXN-80298,2025-04-26,Payroll,ACH Transfer,781.13,Approved,No
+TXN-80299,2025-11-13,Entertainment,Expense Card,4387.35,Approved,No
+TXN-80300,2025-08-03,Consulting,Corporate Wire,5472.92,Flagged,No
+TXN-80301,2025-07-18,Software & Cloud,Expense Card,5509.58,Approved,No
+TXN-80302,2025-09-28,Consulting,Expense Card,2199.13,Flagged,No
+TXN-80303,2025-07-05,Software & Cloud,Expense Card,128.93,Approved,No
+TXN-80304,2025-01-12,Software & Cloud,Credit Card,1345.53,Flagged,No
+TXN-80305,2025-11-20,Entertainment,Corporate Wire,66.32,Approved,No
+TXN-80306,2025-02-07,Software & Cloud,Expense Card,63.76,Flagged,No
+TXN-80307,2025-08-22,Consulting,ACH Transfer,1072.25,Flagged,No
+TXN-80308,2025-04-05,Office Supplies,Credit Card,7426.11,Approved,Yes
+TXN-80309,2025-12-31,Office Supplies,Expense Card,141.9,Flagged,No
+TXN-80310,2025-09-20,Marketing,Credit Card,1254.51,Approved,No
+TXN-80311,2025-03-09,Marketing,Credit Card,650.59,Approved,No
+TXN-80312,2025-08-11,Marketing,Corporate Wire,951.37,Flagged,No
+TXN-80313,2025-01-01,Entertainment,Credit Card,141.64,Approved,No
+TXN-80314,2025-05-21,Consulting,Credit Card,474.65,Approved,No
+TXN-80315,2025-03-25,Office Supplies,ACH Transfer,134.8,Approved,No
+TXN-80316,2025-09-24,Consulting,Corporate Wire,36.72,Approved,No
+TXN-80317,2025-02-07,Consulting,Expense Card,904.92,Approved,No
+TXN-80318,2025-02-03,Consulting,Credit Card,121.15,Approved,No
+TXN-80319,2025-10-22,Travel,ACH Transfer,146.59,Approved,No
+TXN-80320,2025-04-06,Marketing,Expense Card,25.92,Flagged,No
+TXN-80321,2025-10-19,Travel,Corporate Wire,242.68,Approved,No
+TXN-80322,2025-01-08,Payroll,Credit Card,6554.3,Approved,No
+TXN-80323,2025-10-21,Office Supplies,ACH Transfer,3904.73,Approved,No
+TXN-80324,2025-10-18,Entertainment,Expense Card,921.93,Approved,No
+TXN-80325,2025-11-01,Software & Cloud,ACH Transfer,2751.19,Approved,No
+TXN-80326,2025-09-21,Office Supplies,Corporate Wire,4020.56,Approved,No
+TXN-80327,2025-02-06,Software & Cloud,Credit Card,4286.67,Flagged,No
+TXN-80328,2025-12-17,Software & Cloud,Corporate Wire,3386.68,Approved,No
+TXN-80329,2025-05-12,Consulting,Corporate Wire,60.55,Flagged,No
+TXN-80330,2025-05-20,Entertainment,Expense Card,3259.41,Approved,No
+TXN-80331,2025-05-09,Payroll,ACH Transfer,140.68,Approved,No
+TXN-80332,2025-04-27,Entertainment,Expense Card,1237.13,Flagged,No
+TXN-80333,2025-10-04,Software & Cloud,Credit Card,268.99,Approved,No
+TXN-80334,2025-07-04,Consulting,Expense Card,658.17,Approved,No
+TXN-80335,2025-10-17,Software & Cloud,Corporate Wire,212.65,Approved,No
+TXN-80336,2025-01-22,Travel,Expense Card,2179.12,Approved,No
+TXN-80337,2025-02-21,Software & Cloud,Credit Card,801.51,Approved,No
+TXN-80338,2025-12-18,Office Supplies,Credit Card,1247.07,Flagged,No
+TXN-80339,2025-12-18,Travel,Corporate Wire,230.93,Approved,No
+TXN-80340,2025-05-18,Marketing,Credit Card,7804.3,Flagged,Yes
+TXN-80341,2025-10-17,Marketing,ACH Transfer,277.38,Approved,No
+TXN-80342,2025-06-13,Travel,Credit Card,1321.67,Approved,No
+TXN-80343,2025-11-21,Consulting,ACH Transfer,567.28,Approved,No
+TXN-80344,2025-08-15,Entertainment,Corporate Wire,802.8,Approved,No
+TXN-80345,2025-01-15,Payroll,Corporate Wire,1278.0,Approved,No
+TXN-80346,2025-11-15,Payroll,Corporate Wire,2079.33,Approved,No
+TXN-80347,2025-05-23,Travel,ACH Transfer,32.02,Approved,No
+TXN-80348,2025-02-06,Travel,ACH Transfer,8210.18,Approved,No
+TXN-80349,2025-07-03,Office Supplies,ACH Transfer,4429.7,Approved,No
+TXN-80350,2025-01-24,Software & Cloud,ACH Transfer,243.23,Approved,No
+TXN-80351,2025-01-10,Payroll,Expense Card,7907.42,Flagged,Yes
+TXN-80352,2025-08-13,Payroll,Expense Card,1211.78,Approved,No
+TXN-80353,2025-12-15,Payroll,Corporate Wire,6304.38,Approved,No
+TXN-80354,2025-10-25,Marketing,ACH Transfer,226.66,Flagged,No
+TXN-80355,2025-03-22,Entertainment,ACH Transfer,59.29,Approved,No
+TXN-80356,2025-04-19,Consulting,Expense Card,369.01,Approved,No
+TXN-80357,2025-10-03,Consulting,ACH Transfer,3214.01,Approved,No
+TXN-80358,2025-04-24,Software & Cloud,ACH Transfer,59.69,Approved,No
+TXN-80359,2025-08-04,Payroll,Credit Card,6967.99,Flagged,No
+TXN-80360,2025-05-10,Office Supplies,Corporate Wire,1352.32,Flagged,No
+TXN-80361,2025-04-23,Consulting,Corporate Wire,208.44,Flagged,No
+TXN-80362,2025-10-16,Marketing,Expense Card,58.64,Flagged,No
+TXN-80363,2025-03-27,Marketing,Expense Card,3561.75,Approved,No
+TXN-80364,2025-01-05,Entertainment,Corporate Wire,659.84,Flagged,No
+TXN-80365,2025-01-13,Consulting,Corporate Wire,778.39,Approved,No
+TXN-80366,2026-01-01,Software & Cloud,Credit Card,39.43,Approved,No
+TXN-80367,2025-06-30,Travel,Credit Card,6698.13,Approved,No
+TXN-80368,2025-02-18,Office Supplies,Expense Card,4837.45,Approved,No
+TXN-80369,2025-10-09,Marketing,Credit Card,1344.94,Flagged,No
+TXN-80370,2025-12-27,Software & Cloud,Credit Card,871.79,Approved,No
+TXN-80371,2025-10-01,Consulting,Corporate Wire,24.07,Flagged,No
+TXN-80372,2025-09-18,Software & Cloud,ACH Transfer,7630.51,Approved,Yes
+TXN-80373,2025-09-02,Software & Cloud,Corporate Wire,430.92,Approved,No
+TXN-80374,2025-04-28,Payroll,Corporate Wire,402.13,Approved,No
+TXN-80375,2025-05-23,Consulting,Corporate Wire,7591.65,Flagged,Yes
+TXN-80376,2025-10-23,Marketing,Corporate Wire,6782.18,Approved,No
+TXN-80377,2025-01-19,Software & Cloud,Corporate Wire,147.12,Approved,No
+TXN-80378,2025-03-09,Entertainment,Corporate Wire,111.79,Approved,No
+TXN-80379,2025-07-10,Software & Cloud,Corporate Wire,20.59,Flagged,No
+TXN-80380,2025-01-25,Marketing,Expense Card,49.22,Approved,No
+TXN-80381,2025-11-01,Payroll,Corporate Wire,771.96,Approved,No
+TXN-80382,2025-10-03,Office Supplies,Corporate Wire,32.82,Approved,No
+TXN-80383,2025-12-16,Consulting,Credit Card,78.41,Approved,No
+TXN-80384,2025-01-15,Travel,ACH Transfer,1454.97,Approved,No
+TXN-80385,2025-07-18,Office Supplies,Expense Card,36.9,Approved,No
+TXN-80386,2025-09-07,Consulting,Credit Card,676.96,Flagged,No
+TXN-80387,2025-07-21,Entertainment,Expense Card,143.8,Flagged,No
+TXN-80388,2025-02-13,Software & Cloud,Expense Card,278.58,Approved,No
+TXN-80389,2025-01-19,Payroll,Expense Card,708.97,Approved,No
+TXN-80390,2025-04-26,Payroll,Expense Card,61.41,Flagged,No
+TXN-80391,2025-03-08,Software & Cloud,Corporate Wire,67.02,Approved,No
+TXN-80392,2025-05-11,Software & Cloud,Corporate Wire,7977.63,Approved,No
+TXN-80393,2025-12-11,Marketing,Corporate Wire,28.69,Flagged,No
+TXN-80394,2025-12-18,Office Supplies,Credit Card,114.89,Approved,No
+TXN-80395,2025-12-31,Entertainment,Credit Card,103.83,Approved,No
+TXN-80396,2025-06-23,Office Supplies,Corporate Wire,1136.22,Flagged,No
+TXN-80397,2025-07-07,Software & Cloud,Credit Card,64.23,Approved,No
+TXN-80398,2025-12-20,Entertainment,Corporate Wire,4377.99,Flagged,No
+TXN-80399,2025-01-15,Consulting,ACH Transfer,7613.19,Approved,No
+TXN-80400,2025-06-19,Consulting,Expense Card,1125.74,Approved,No
+TXN-80401,2025-07-04,Software & Cloud,Corporate Wire,933.61,Flagged,No
+TXN-80402,2025-11-01,Consulting,Expense Card,282.66,Approved,No
+TXN-80403,2025-04-01,Travel,ACH Transfer,53.55,Approved,No
+TXN-80404,2025-11-13,Entertainment,ACH Transfer,1259.2,Approved,No
+TXN-80405,2025-07-10,Marketing,Expense Card,68.61,Approved,No
+TXN-80406,2025-05-22,Consulting,Corporate Wire,47.35,Approved,No
+TXN-80407,2025-07-17,Software & Cloud,Credit Card,571.69,Approved,No
+TXN-80408,2025-03-22,Software & Cloud,Expense Card,591.3,Approved,No
+TXN-80409,2025-01-29,Payroll,Expense Card,91.49,Approved,No
+TXN-80410,2025-01-10,Payroll,Credit Card,2792.88,Approved,No
+TXN-80411,2025-03-14,Software & Cloud,Credit Card,4903.12,Approved,No
+TXN-80412,2025-03-22,Marketing,Corporate Wire,63.97,Flagged,No
+TXN-80413,2025-08-24,Office Supplies,ACH Transfer,1084.36,Approved,No
+TXN-80414,2025-09-12,Travel,Corporate Wire,6212.68,Approved,No
+TXN-80415,2025-09-28,Payroll,Expense Card,122.55,Flagged,No
+TXN-80416,2025-08-20,Consulting,Corporate Wire,92.94,Approved,No
+TXN-80417,2025-01-02,Consulting,Credit Card,7378.2,Approved,No
+TXN-80418,2025-08-13,Entertainment,Credit Card,4115.64,Approved,No
+TXN-80419,2025-01-13,Travel,Corporate Wire,80.32,Approved,No
+TXN-80420,2025-06-13,Software & Cloud,Expense Card,104.45,Approved,No
+TXN-80421,2025-10-21,Software & Cloud,Credit Card,4586.97,Approved,No
+TXN-80422,2025-03-26,Consulting,Credit Card,457.55,Approved,No
+TXN-80423,2025-07-20,Office Supplies,Corporate Wire,6191.69,Flagged,No
+TXN-80424,2025-05-07,Entertainment,ACH Transfer,5999.91,Approved,No
+TXN-80425,2025-03-17,Software & Cloud,Corporate Wire,35.35,Approved,No
+TXN-80426,2025-11-05,Office Supplies,Corporate Wire,5078.93,Approved,No
+TXN-80427,2025-07-01,Entertainment,Corporate Wire,750.19,Approved,No
+TXN-80428,2025-07-23,Consulting,Credit Card,4984.25,Approved,No
+TXN-80429,2025-11-07,Consulting,Expense Card,121.37,Approved,No
+TXN-80430,2025-01-20,Consulting,Credit Card,362.09,Approved,No
+TXN-80431,2025-12-14,Office Supplies,Corporate Wire,5204.47,Flagged,No
+TXN-80432,2025-05-15,Payroll,ACH Transfer,822.02,Approved,No
+TXN-80433,2025-04-18,Software & Cloud,Corporate Wire,147.59,Approved,No
+TXN-80434,2025-02-24,Payroll,ACH Transfer,5641.39,Approved,No
+TXN-80435,2025-12-07,Payroll,Corporate Wire,1445.86,Approved,No
+TXN-80436,2025-11-13,Entertainment,ACH Transfer,43.49,Flagged,No
+TXN-80437,2025-05-06,Entertainment,Credit Card,349.16,Flagged,No
+TXN-80438,2025-02-23,Marketing,Corporate Wire,3489.25,Approved,No
+TXN-80439,2025-03-04,Entertainment,ACH Transfer,1355.02,Approved,No
+TXN-80440,2025-12-05,Consulting,Credit Card,4595.43,Flagged,No
+TXN-80441,2025-07-07,Payroll,Expense Card,23.54,Approved,No
+TXN-80442,2025-05-09,Marketing,Credit Card,1417.82,Approved,No
+TXN-80443,2025-05-18,Consulting,Credit Card,1196.36,Flagged,No
+TXN-80444,2025-01-09,Marketing,Credit Card,8400.98,Flagged,No
+TXN-80445,2025-04-05,Marketing,Credit Card,200.69,Approved,No
+TXN-80446,2025-03-23,Consulting,Credit Card,24.6,Approved,No
+TXN-80447,2025-06-07,Software & Cloud,Credit Card,943.05,Flagged,No
+TXN-80448,2025-09-30,Consulting,Expense Card,69.81,Approved,No
+TXN-80449,2025-08-07,Software & Cloud,Expense Card,135.58,Approved,No
+TXN-80450,2025-11-30,Consulting,Expense Card,8234.43,Flagged,No
+TXN-80451,2025-10-06,Payroll,Expense Card,8083.8,Approved,No
+TXN-80452,2025-03-01,Software & Cloud,Credit Card,100.05,Approved,No
+TXN-80453,2025-04-30,Software & Cloud,Credit Card,406.1,Approved,No
+TXN-80454,2025-06-28,Entertainment,Expense Card,3838.12,Flagged,No
+TXN-80455,2025-05-26,Entertainment,Expense Card,2911.82,Flagged,No
+TXN-80456,2025-06-06,Consulting,ACH Transfer,1191.27,Flagged,No
+TXN-80457,2025-08-19,Office Supplies,ACH Transfer,315.73,Approved,No
+TXN-80458,2025-12-20,Consulting,Credit Card,49.69,Approved,No
+TXN-80459,2025-12-24,Marketing,Corporate Wire,248.93,Flagged,No
+TXN-80460,2025-04-06,Office Supplies,Expense Card,6127.43,Approved,No
+TXN-80461,2025-10-19,Software & Cloud,Expense Card,6515.69,Flagged,No
+TXN-80462,2025-01-05,Payroll,Corporate Wire,343.16,Flagged,No
+TXN-80463,2025-04-16,Payroll,Expense Card,7546.61,Approved,No
+TXN-80464,2025-07-21,Office Supplies,ACH Transfer,738.13,Approved,No
+TXN-80465,2025-05-15,Entertainment,ACH Transfer,115.62,Approved,No
+TXN-80466,2025-03-04,Office Supplies,Expense Card,3589.82,Approved,No
+TXN-80467,2025-12-28,Entertainment,ACH Transfer,786.16,Flagged,No
+TXN-80468,2025-01-09,Marketing,Corporate Wire,262.07,Approved,No
+TXN-80469,2025-09-02,Office Supplies,Corporate Wire,5465.66,Approved,No
+TXN-80470,2025-05-08,Travel,Corporate Wire,7812.41,Approved,No
+TXN-80471,2025-03-30,Payroll,Credit Card,1190.19,Approved,No
+TXN-80472,2025-05-27,Software & Cloud,Expense Card,65.02,Approved,No
+TXN-80473,2025-01-06,Software & Cloud,Credit Card,936.69,Approved,No
+TXN-80474,2025-11-09,Software & Cloud,Corporate Wire,2919.33,Approved,No
+TXN-80475,2025-03-11,Travel,Credit Card,1322.91,Approved,No
+TXN-80476,2025-12-28,Office Supplies,Expense Card,957.06,Approved,No
+TXN-80477,2025-08-09,Office Supplies,Credit Card,992.33,Approved,No
+TXN-80478,2025-06-02,Office Supplies,Corporate Wire,50.02,Approved,No
+TXN-80479,2025-10-05,Software & Cloud,ACH Transfer,21.49,Flagged,No
+TXN-80480,2025-12-10,Software & Cloud,Corporate Wire,523.26,Approved,No
+TXN-80481,2025-07-28,Marketing,Corporate Wire,224.33,Flagged,No
+TXN-80482,2025-12-21,Office Supplies,Expense Card,2182.13,Approved,No
+TXN-80483,2025-12-29,Payroll,Corporate Wire,91.83,Approved,No
+TXN-80484,2025-12-01,Entertainment,Credit Card,1463.96,Approved,No
+TXN-80485,2025-05-15,Consulting,Corporate Wire,149.13,Approved,No
+TXN-80486,2025-10-02,Software & Cloud,ACH Transfer,7297.93,Flagged,No
+TXN-80487,2025-06-23,Consulting,Corporate Wire,75.54,Approved,No
+TXN-80488,2025-03-10,Software & Cloud,Corporate Wire,99.19,Approved,No
+TXN-80489,2025-10-21,Consulting,Credit Card,44.1,Approved,No
+TXN-80490,2025-07-29,Marketing,Expense Card,1154.28,Flagged,No
+TXN-80491,2025-01-06,Marketing,Expense Card,5109.52,Approved,No
+TXN-80492,2025-06-11,Entertainment,Corporate Wire,273.67,Approved,No
+TXN-80493,2025-02-10,Travel,Corporate Wire,1155.13,Flagged,No
+TXN-80494,2025-05-01,Software & Cloud,Credit Card,44.27,Approved,No
+TXN-80495,2025-10-04,Software & Cloud,ACH Transfer,7197.11,Approved,No
+TXN-80496,2025-08-21,Travel,Corporate Wire,144.28,Approved,No
+TXN-80497,2025-08-13,Travel,Expense Card,536.63,Approved,No
+TXN-80498,2025-09-01,Entertainment,Expense Card,2688.16,Approved,No
+TXN-80499,2025-01-26,Marketing,Expense Card,904.11,Approved,No
+TXN-80500,2025-12-13,Entertainment,Expense Card,99.9,Approved,No
+TXN-80501,2025-06-12,Software & Cloud,Credit Card,960.41,Flagged,No
+TXN-80502,2025-10-01,Entertainment,ACH Transfer,111.2,Approved,No
+TXN-80503,2025-05-08,Consulting,Corporate Wire,75.93,Approved,No
+TXN-80504,2025-02-13,Software & Cloud,Credit Card,4976.28,Approved,No
+TXN-80505,2025-12-23,Software & Cloud,ACH Transfer,7247.73,Approved,No
+TXN-80506,2025-01-26,Consulting,Expense Card,54.33,Approved,No
+TXN-80507,2025-02-23,Marketing,ACH Transfer,108.75,Flagged,No
+TXN-80508,2025-03-30,Travel,Corporate Wire,839.9,Approved,No
+TXN-80509,2025-10-13,Software & Cloud,Expense Card,39.54,Approved,No
+TXN-80510,2025-07-12,Travel,Corporate Wire,7270.91,Flagged,No
+TXN-80511,2025-04-09,Entertainment,Corporate Wire,114.91,Approved,No
+TXN-80512,2025-05-31,Marketing,ACH Transfer,2120.39,Flagged,No
+TXN-80513,2025-11-03,Office Supplies,ACH Transfer,16.59,Approved,No
+TXN-80514,2025-12-16,Office Supplies,Expense Card,1089.66,Approved,No
+TXN-80515,2025-12-16,Entertainment,Expense Card,1011.09,Flagged,No
+TXN-80516,2025-12-03,Payroll,Corporate Wire,1340.94,Approved,No
+TXN-80517,2025-04-05,Marketing,Expense Card,139.37,Approved,No
+TXN-80518,2025-03-20,Office Supplies,Credit Card,71.48,Approved,No
+TXN-80519,2025-11-06,Entertainment,Corporate Wire,18.75,Approved,No
+TXN-80520,2025-05-27,Office Supplies,Credit Card,1401.28,Approved,No
+TXN-80521,2025-03-19,Travel,ACH Transfer,57.63,Flagged,No
+TXN-80522,2025-08-26,Software & Cloud,Corporate Wire,424.07,Approved,No
+TXN-80523,2025-08-09,Travel,Expense Card,25.26,Approved,No
+TXN-80524,2025-04-10,Travel,Corporate Wire,112.72,Approved,No
+TXN-80525,2025-10-21,Marketing,Corporate Wire,110.09,Approved,No
+TXN-80526,2025-03-19,Entertainment,Credit Card,2495.75,Approved,No
+TXN-80527,2025-12-06,Office Supplies,Credit Card,7653.25,Flagged,No
+TXN-80528,2025-06-02,Consulting,Credit Card,957.7,Approved,No
+TXN-80529,2025-06-08,Consulting,ACH Transfer,116.26,Flagged,No
+TXN-80530,2025-10-19,Software & Cloud,Expense Card,881.74,Approved,No
+TXN-80531,2025-07-18,Entertainment,Expense Card,6868.07,Approved,No
+TXN-80532,2025-08-11,Office Supplies,Corporate Wire,44.39,Flagged,No
+TXN-80533,2025-03-16,Entertainment,Corporate Wire,25.14,Approved,No
+TXN-80534,2025-03-25,Marketing,ACH Transfer,2732.99,Flagged,No
+TXN-80535,2025-10-18,Office Supplies,Credit Card,1321.51,Approved,No
+TXN-80536,2025-12-20,Office Supplies,Credit Card,3294.56,Approved,No
+TXN-80537,2025-04-23,Travel,Expense Card,72.0,Approved,No
+TXN-80538,2025-01-03,Travel,ACH Transfer,141.39,Flagged,No
+TXN-80539,2025-02-19,Software & Cloud,Credit Card,260.34,Approved,No
+TXN-80540,2025-05-01,Office Supplies,Credit Card,919.1,Approved,No
+TXN-80541,2025-10-17,Payroll,Credit Card,23.05,Flagged,No
+TXN-80542,2025-08-12,Entertainment,Corporate Wire,130.8,Flagged,No
+TXN-80543,2025-04-15,Payroll,Corporate Wire,6855.39,Approved,No
+TXN-80544,2025-02-28,Payroll,Expense Card,3610.91,Approved,No
+TXN-80545,2025-02-25,Entertainment,Credit Card,146.37,Approved,No
+TXN-80546,2025-11-08,Software & Cloud,Corporate Wire,28.39,Approved,No
+TXN-80547,2025-08-25,Software & Cloud,Credit Card,8096.32,Approved,No
+TXN-80548,2025-09-04,Consulting,Expense Card,4746.2,Approved,No
+TXN-80549,2025-10-25,Entertainment,Corporate Wire,15.85,Approved,No
+TXN-80550,2025-02-08,Software & Cloud,Corporate Wire,777.97,Approved,No
+TXN-80551,2025-10-31,Marketing,Expense Card,3605.17,Approved,No
+TXN-80552,2025-12-05,Marketing,Expense Card,8439.39,Flagged,Yes
+TXN-80553,2025-07-08,Consulting,Expense Card,1192.84,Approved,No
+TXN-80554,2025-06-15,Software & Cloud,Expense Card,42.56,Approved,No
+TXN-80555,2025-04-25,Marketing,ACH Transfer,1016.76,Approved,No
+TXN-80556,2025-10-24,Software & Cloud,Credit Card,2927.68,Flagged,No
+TXN-80557,2025-10-30,Consulting,ACH Transfer,769.23,Approved,No
+TXN-80558,2025-01-02,Office Supplies,Expense Card,1083.63,Approved,No
+TXN-80559,2025-05-22,Consulting,Credit Card,5953.71,Approved,No
+TXN-80560,2025-07-30,Travel,Expense Card,5373.42,Approved,No
+TXN-80561,2025-07-24,Software & Cloud,Credit Card,149.63,Approved,No
+TXN-80562,2025-06-11,Marketing,Credit Card,416.66,Approved,No
+TXN-80563,2025-03-29,Marketing,Credit Card,127.82,Flagged,No
+TXN-80564,2025-07-23,Travel,Expense Card,2397.84,Approved,No
+TXN-80565,2025-10-01,Marketing,ACH Transfer,3439.36,Approved,No
+TXN-80566,2025-12-07,Entertainment,Credit Card,7296.22,Flagged,Yes
+TXN-80567,2025-02-24,Marketing,ACH Transfer,1325.14,Approved,No
+TXN-80568,2025-01-25,Travel,Credit Card,6681.33,Flagged,No
+TXN-80569,2025-10-31,Travel,ACH Transfer,222.47,Flagged,No
+TXN-80570,2025-02-19,Marketing,ACH Transfer,4848.79,Approved,No
+TXN-80571,2025-08-18,Consulting,Credit Card,82.86,Approved,No
+TXN-80572,2025-08-30,Office Supplies,Corporate Wire,70.95,Approved,No
+TXN-80573,2025-07-10,Consulting,Credit Card,552.8,Approved,No
+TXN-80574,2025-11-01,Office Supplies,Credit Card,556.54,Flagged,No
+TXN-80575,2025-07-11,Entertainment,Corporate Wire,55.62,Approved,No
+TXN-80576,2025-06-26,Marketing,Expense Card,132.75,Approved,No
+TXN-80577,2025-04-03,Entertainment,Credit Card,3400.46,Approved,No
+TXN-80578,2025-01-16,Consulting,ACH Transfer,4527.18,Approved,No
+TXN-80579,2025-06-16,Payroll,ACH Transfer,95.63,Approved,No
+TXN-80580,2025-04-26,Office Supplies,ACH Transfer,1279.57,Approved,No
+TXN-80581,2025-06-28,Payroll,Corporate Wire,7602.04,Approved,Yes
+TXN-80582,2025-03-07,Consulting,Corporate Wire,2441.93,Flagged,No
+TXN-80583,2025-11-24,Software & Cloud,Corporate Wire,802.31,Approved,No
+TXN-80584,2025-06-27,Office Supplies,ACH Transfer,111.17,Approved,No
+TXN-80585,2025-12-15,Software & Cloud,ACH Transfer,33.89,Approved,No
+TXN-80586,2025-07-08,Consulting,Credit Card,7955.54,Approved,No
+TXN-80587,2025-06-07,Marketing,Credit Card,49.87,Approved,No
+TXN-80588,2025-04-20,Payroll,ACH Transfer,7679.99,Approved,No
+TXN-80589,2025-08-25,Travel,Credit Card,7237.55,Approved,No
+TXN-80590,2025-11-05,Marketing,Corporate Wire,19.95,Approved,No
+TXN-80591,2025-03-05,Software & Cloud,Corporate Wire,71.87,Approved,No
+TXN-80592,2025-11-26,Entertainment,Corporate Wire,5083.82,Approved,No
+TXN-80593,2025-10-13,Entertainment,Credit Card,62.6,Approved,No
+TXN-80594,2025-10-12,Marketing,Expense Card,39.83,Flagged,No
+TXN-80595,2025-06-06,Payroll,Expense Card,8022.78,Approved,Yes
+TXN-80596,2025-09-20,Travel,Credit Card,1091.23,Flagged,No
+TXN-80597,2025-02-14,Consulting,Expense Card,692.57,Approved,No
+TXN-80598,2025-04-25,Marketing,Corporate Wire,377.52,Flagged,No
+TXN-80599,2025-08-09,Payroll,ACH Transfer,5962.34,Approved,No
+TXN-80600,2025-01-19,Payroll,Credit Card,21.51,Approved,No
+TXN-80601,2025-04-30,Office Supplies,ACH Transfer,1115.55,Approved,No
+TXN-80602,2025-03-29,Marketing,ACH Transfer,5344.9,Approved,No
+TXN-80603,2025-12-10,Office Supplies,Expense Card,769.45,Flagged,No
+TXN-80604,2025-11-22,Marketing,ACH Transfer,116.82,Approved,No
+TXN-80605,2025-03-15,Software & Cloud,Credit Card,6752.33,Approved,No
+TXN-80606,2025-03-12,Entertainment,ACH Transfer,443.79,Approved,No
+TXN-80607,2025-01-08,Consulting,ACH Transfer,887.86,Approved,No
+TXN-80608,2025-02-20,Entertainment,ACH Transfer,122.3,Flagged,No
+TXN-80609,2025-02-23,Office Supplies,Credit Card,2192.95,Approved,No
+TXN-80610,2025-08-11,Entertainment,Credit Card,951.56,Approved,No
+TXN-80611,2025-06-22,Marketing,Credit Card,7167.02,Approved,No
+TXN-80612,2025-02-23,Entertainment,Expense Card,4051.55,Flagged,No
+TXN-80613,2025-10-27,Consulting,Corporate Wire,2581.3,Approved,No
+TXN-80614,2025-09-16,Payroll,Credit Card,6868.51,Approved,No
+TXN-80615,2025-03-06,Software & Cloud,Expense Card,17.7,Approved,No
+TXN-80616,2025-05-08,Travel,Corporate Wire,3997.93,Approved,No
+TXN-80617,2025-03-04,Marketing,Corporate Wire,2383.96,Approved,No
+TXN-80618,2025-10-01,Entertainment,Credit Card,1132.33,Approved,No
+TXN-80619,2025-06-03,Software & Cloud,Corporate Wire,468.56,Flagged,No
+TXN-80620,2025-07-14,Software & Cloud,Expense Card,771.83,Flagged,No
+TXN-80621,2025-05-06,Office Supplies,Corporate Wire,62.69,Approved,No
+TXN-80622,2025-06-14,Office Supplies,Expense Card,3897.34,Approved,No
+TXN-80623,2025-11-30,Travel,ACH Transfer,1266.53,Approved,No
+TXN-80624,2025-06-27,Marketing,Credit Card,4553.77,Approved,No
+TXN-80625,2025-03-10,Payroll,Corporate Wire,78.66,Flagged,No
+TXN-80626,2025-11-29,Entertainment,Expense Card,70.33,Approved,No
+TXN-80627,2025-05-11,Consulting,ACH Transfer,24.27,Approved,No
+TXN-80628,2025-12-23,Office Supplies,Expense Card,620.33,Approved,No
+TXN-80629,2025-05-16,Consulting,Credit Card,2243.58,Approved,No
+TXN-80630,2025-09-09,Software & Cloud,Corporate Wire,385.52,Approved,No
+TXN-80631,2025-09-18,Entertainment,Credit Card,50.55,Approved,No
+TXN-80632,2025-06-12,Office Supplies,Corporate Wire,140.09,Flagged,No
+TXN-80633,2025-07-25,Consulting,ACH Transfer,6285.29,Approved,No
+TXN-80634,2025-03-30,Office Supplies,Corporate Wire,3808.43,Flagged,No
+TXN-80635,2025-05-19,Entertainment,ACH Transfer,116.84,Approved,No
+TXN-80636,2025-08-21,Office Supplies,Corporate Wire,129.19,Approved,No
+TXN-80637,2025-08-06,Payroll,Credit Card,1184.83,Approved,No
+TXN-80638,2025-06-06,Software & Cloud,Corporate Wire,7857.45,Flagged,No
+TXN-80639,2025-11-30,Consulting,ACH Transfer,489.18,Approved,No
+TXN-80640,2025-09-01,Entertainment,Expense Card,16.88,Approved,No
+TXN-80641,2025-02-27,Office Supplies,ACH Transfer,41.06,Approved,No
+TXN-80642,2025-03-07,Office Supplies,Expense Card,32.99,Approved,No
+TXN-80643,2025-12-02,Travel,Corporate Wire,131.42,Approved,No
+TXN-80644,2025-08-25,Consulting,Corporate Wire,15.99,Flagged,No
+TXN-80645,2025-10-30,Payroll,ACH Transfer,28.46,Approved,No
+TXN-80646,2025-11-15,Travel,Expense Card,111.47,Approved,No
+TXN-80647,2025-05-22,Entertainment,Expense Card,18.8,Flagged,No
+TXN-80648,2025-10-22,Marketing,Expense Card,430.69,Approved,No
+TXN-80649,2025-03-15,Entertainment,Corporate Wire,7785.48,Approved,No
+TXN-80650,2025-02-21,Consulting,Credit Card,1008.41,Flagged,No
+TXN-80651,2025-08-09,Office Supplies,Credit Card,107.82,Flagged,No
+TXN-80652,2025-12-22,Consulting,Corporate Wire,22.57,Approved,No
+TXN-80653,2025-05-02,Entertainment,Expense Card,2881.02,Approved,No
+TXN-80654,2025-07-29,Software & Cloud,Credit Card,16.35,Approved,No
+TXN-80655,2025-09-11,Travel,Corporate Wire,33.44,Approved,No
+TXN-80656,2025-08-25,Entertainment,Corporate Wire,98.07,Flagged,No
+TXN-80657,2025-03-24,Software & Cloud,Credit Card,29.74,Flagged,No
+TXN-80658,2025-12-02,Travel,Expense Card,441.33,Approved,No
+TXN-80659,2025-12-30,Entertainment,ACH Transfer,115.37,Approved,No
+TXN-80660,2025-02-05,Office Supplies,Expense Card,791.22,Approved,No
+TXN-80661,2025-04-26,Software & Cloud,ACH Transfer,54.57,Approved,No
+TXN-80662,2025-02-17,Software & Cloud,Expense Card,3395.38,Approved,No
+TXN-80663,2025-02-12,Entertainment,Corporate Wire,143.84,Approved,No
+TXN-80664,2025-08-17,Marketing,Expense Card,2146.93,Approved,No
+TXN-80665,2025-11-25,Consulting,ACH Transfer,492.04,Approved,No
+TXN-80666,2025-08-27,Payroll,ACH Transfer,112.23,Approved,No
+TXN-80667,2025-12-21,Marketing,ACH Transfer,93.89,Approved,No
+TXN-80668,2025-10-22,Travel,Credit Card,58.16,Approved,No
+TXN-80669,2025-08-09,Entertainment,Expense Card,6761.29,Flagged,No
+TXN-80670,2025-09-03,Marketing,Expense Card,1380.79,Approved,No
+TXN-80671,2025-08-26,Software & Cloud,Expense Card,1380.21,Approved,No
+TXN-80672,2025-05-13,Consulting,Credit Card,7335.62,Approved,No
+TXN-80673,2025-01-17,Office Supplies,Expense Card,1300.28,Approved,No
+TXN-80674,2025-01-26,Travel,Expense Card,92.12,Flagged,No
+TXN-80675,2025-11-17,Office Supplies,Corporate Wire,1221.05,Approved,No
+TXN-80676,2025-08-12,Office Supplies,ACH Transfer,75.62,Approved,No
+TXN-80677,2025-09-28,Office Supplies,Expense Card,58.01,Approved,No
+TXN-80678,2025-03-27,Travel,Corporate Wire,115.37,Approved,No
+TXN-80679,2025-06-18,Marketing,Credit Card,133.62,Approved,No
+TXN-80680,2025-09-23,Office Supplies,Expense Card,579.2,Flagged,No
+TXN-80681,2025-10-31,Software & Cloud,Credit Card,5387.1,Approved,No
+TXN-80682,2025-05-10,Travel,Credit Card,69.84,Flagged,No
+TXN-80683,2025-11-18,Office Supplies,Corporate Wire,380.52,Flagged,No
+TXN-80684,2025-11-13,Payroll,Credit Card,904.31,Approved,No
+TXN-80685,2025-10-08,Entertainment,Expense Card,79.8,Approved,No
+TXN-80686,2025-10-29,Office Supplies,ACH Transfer,107.38,Approved,No
+TXN-80687,2025-02-12,Consulting,Credit Card,2601.03,Approved,No
+TXN-80688,2025-05-13,Payroll,ACH Transfer,1187.0,Approved,No
+TXN-80689,2025-04-07,Travel,ACH Transfer,123.66,Approved,No
+TXN-80690,2025-05-03,Entertainment,ACH Transfer,4090.74,Approved,No
+TXN-80691,2025-10-25,Marketing,ACH Transfer,131.54,Approved,No
+TXN-80692,2025-10-09,Travel,Corporate Wire,51.04,Approved,No
+TXN-80693,2025-09-17,Payroll,Corporate Wire,5336.7,Approved,No
+TXN-80694,2025-03-18,Travel,Expense Card,34.0,Flagged,No
+TXN-80695,2025-12-19,Marketing,ACH Transfer,807.84,Approved,No
+TXN-80696,2025-06-09,Consulting,Corporate Wire,143.39,Approved,No
+TXN-80697,2025-02-14,Marketing,Corporate Wire,98.67,Approved,No
+TXN-80698,2025-10-09,Travel,Credit Card,6084.22,Approved,No
+TXN-80699,2025-10-17,Marketing,Credit Card,53.73,Approved,No
+TXN-80700,2025-11-05,Consulting,Corporate Wire,44.57,Approved,No
+TXN-80701,2025-10-15,Software & Cloud,Corporate Wire,2192.56,Approved,No
+TXN-80702,2025-03-07,Software & Cloud,Expense Card,316.44,Approved,No
+TXN-80703,2025-09-12,Travel,Expense Card,8212.18,Approved,No
+TXN-80704,2025-07-15,Marketing,Credit Card,146.04,Flagged,No
+TXN-80705,2025-04-23,Consulting,ACH Transfer,66.68,Approved,No
+TXN-80706,2025-01-04,Software & Cloud,ACH Transfer,82.39,Approved,No
+TXN-80707,2025-03-18,Consulting,ACH Transfer,925.83,Flagged,No
+TXN-80708,2025-03-28,Office Supplies,Corporate Wire,141.93,Flagged,No
+TXN-80709,2025-04-04,Payroll,Expense Card,204.93,Flagged,No
+TXN-80710,2025-12-24,Marketing,Expense Card,143.61,Flagged,No
+TXN-80711,2025-10-07,Consulting,Expense Card,1297.6,Flagged,No
+TXN-80712,2025-02-11,Consulting,Corporate Wire,93.05,Flagged,No
+TXN-80713,2025-09-19,Travel,ACH Transfer,82.58,Approved,No
+TXN-80714,2025-06-10,Software & Cloud,ACH Transfer,599.88,Flagged,No
+TXN-80715,2025-03-20,Office Supplies,Credit Card,637.16,Approved,No
+TXN-80716,2025-07-02,Software & Cloud,ACH Transfer,8304.33,Approved,No
+TXN-80717,2025-02-15,Payroll,Credit Card,28.65,Approved,No
+TXN-80718,2025-03-17,Office Supplies,Expense Card,1314.33,Approved,No
+TXN-80719,2025-12-13,Marketing,ACH Transfer,7240.9,Approved,Yes
+TXN-80720,2025-08-03,Office Supplies,Credit Card,149.06,Approved,No
+TXN-80721,2025-02-20,Entertainment,Credit Card,436.27,Approved,No
+TXN-80722,2025-12-03,Software & Cloud,ACH Transfer,26.11,Approved,No
+TXN-80723,2025-07-25,Payroll,Credit Card,56.98,Approved,No
+TXN-80724,2025-03-14,Consulting,Credit Card,111.33,Approved,No
+TXN-80725,2025-03-25,Software & Cloud,Credit Card,5865.38,Approved,No
+TXN-80726,2025-02-15,Travel,ACH Transfer,217.17,Approved,No
+TXN-80727,2025-02-24,Software & Cloud,Expense Card,5033.13,Flagged,No
+TXN-80728,2025-02-23,Travel,Expense Card,402.26,Approved,No
+TXN-80729,2025-09-17,Payroll,ACH Transfer,7495.11,Approved,No
+TXN-80730,2025-07-06,Entertainment,Credit Card,300.15,Approved,No
+TXN-80731,2025-09-29,Marketing,Corporate Wire,7997.06,Flagged,No
+TXN-80732,2025-01-02,Office Supplies,Expense Card,6942.94,Approved,No
+TXN-80733,2025-02-27,Consulting,Expense Card,29.28,Flagged,No
+TXN-80734,2025-03-21,Entertainment,Corporate Wire,7714.25,Flagged,No
+TXN-80735,2025-09-04,Marketing,Expense Card,119.61,Approved,No
+TXN-80736,2025-08-03,Consulting,Credit Card,7188.75,Approved,Yes
+TXN-80737,2025-06-30,Entertainment,Expense Card,2095.75,Approved,No
+TXN-80738,2025-05-31,Payroll,Corporate Wire,122.78,Approved,No
+TXN-80739,2025-03-04,Entertainment,Expense Card,4498.94,Flagged,No
+TXN-80740,2025-06-30,Office Supplies,Expense Card,1066.3,Approved,No
+TXN-80741,2025-08-12,Travel,Credit Card,1304.62,Approved,No
+TXN-80742,2025-06-14,Travel,Credit Card,114.33,Flagged,No
+TXN-80743,2025-01-03,Travel,Expense Card,4365.86,Approved,No
+TXN-80744,2025-03-22,Entertainment,ACH Transfer,6516.45,Approved,No
+TXN-80745,2025-03-12,Office Supplies,ACH Transfer,88.15,Approved,No
+TXN-80746,2025-02-24,Marketing,Expense Card,1252.34,Approved,No
+TXN-80747,2025-03-17,Travel,Credit Card,292.65,Flagged,No
+TXN-80748,2025-05-29,Payroll,Expense Card,6340.35,Approved,No
+TXN-80749,2025-06-08,Software & Cloud,Credit Card,623.61,Flagged,No
+TXN-80750,2025-05-13,Consulting,Corporate Wire,1266.34,Approved,No
+TXN-80751,2025-08-30,Marketing,Corporate Wire,89.49,Approved,No
+TXN-80752,2025-02-09,Office Supplies,Expense Card,137.53,Approved,No
+TXN-80753,2025-10-16,Entertainment,Expense Card,643.78,Approved,No
+TXN-80754,2025-12-10,Entertainment,Expense Card,1154.66,Approved,No
+TXN-80755,2025-07-09,Consulting,ACH Transfer,801.35,Approved,No
+TXN-80756,2025-02-22,Consulting,Credit Card,77.19,Approved,No
+TXN-80757,2025-05-15,Consulting,Expense Card,3494.22,Approved,No
+TXN-80758,2025-02-20,Software & Cloud,Expense Card,57.94,Flagged,No
+TXN-80759,2025-02-07,Marketing,ACH Transfer,82.94,Flagged,No
+TXN-80760,2025-03-24,Travel,Corporate Wire,4563.78,Flagged,No
+TXN-80761,2025-08-19,Software & Cloud,Corporate Wire,1284.08,Flagged,No
+TXN-80762,2025-05-09,Consulting,Corporate Wire,16.39,Approved,No
+TXN-80763,2025-02-04,Consulting,Corporate Wire,470.72,Flagged,No
+TXN-80764,2025-12-21,Consulting,Corporate Wire,362.99,Flagged,No
+TXN-80765,2025-01-27,Office Supplies,Expense Card,7182.65,Flagged,No
+TXN-80766,2025-12-14,Office Supplies,Corporate Wire,38.81,Approved,No
+TXN-80767,2025-06-27,Travel,Credit Card,107.79,Flagged,No
+TXN-80768,2025-10-23,Software & Cloud,Expense Card,1444.09,Flagged,No
+TXN-80769,2025-01-05,Marketing,ACH Transfer,1053.11,Approved,No
+TXN-80770,2025-08-31,Payroll,Expense Card,640.7,Approved,No
+TXN-80771,2025-12-27,Office Supplies,Credit Card,47.57,Flagged,No
+TXN-80772,2025-07-26,Software & Cloud,Corporate Wire,76.48,Approved,No
+TXN-80773,2025-03-17,Payroll,Expense Card,1190.05,Flagged,No
+TXN-80774,2025-11-07,Consulting,Credit Card,338.59,Approved,No
+TXN-80775,2025-10-06,Office Supplies,ACH Transfer,5591.17,Approved,No
+TXN-80776,2025-07-11,Travel,Corporate Wire,141.9,Approved,No
+TXN-80777,2025-04-02,Office Supplies,Corporate Wire,4685.86,Approved,No
+TXN-80778,2025-05-17,Travel,Corporate Wire,106.61,Flagged,No
+TXN-80779,2025-01-13,Office Supplies,Credit Card,75.83,Approved,No
+TXN-80780,2025-04-10,Consulting,Expense Card,134.76,Approved,No
+TXN-80781,2025-10-26,Marketing,Corporate Wire,737.25,Approved,No
+TXN-80782,2025-10-23,Consulting,Corporate Wire,4863.7,Approved,No
+TXN-80783,2025-08-16,Entertainment,Expense Card,147.15,Approved,No
+TXN-80784,2025-07-23,Payroll,ACH Transfer,4273.66,Approved,No
+TXN-80785,2025-12-24,Travel,Corporate Wire,114.65,Flagged,No
+TXN-80786,2025-10-04,Software & Cloud,Credit Card,36.61,Approved,No
+TXN-80787,2025-01-25,Payroll,ACH Transfer,146.62,Flagged,No
+TXN-80788,2025-08-03,Payroll,Expense Card,68.34,Approved,No
+TXN-80789,2025-04-16,Marketing,Expense Card,50.74,Flagged,No
+TXN-80790,2025-01-01,Payroll,Expense Card,203.63,Flagged,No
+TXN-80791,2025-01-12,Entertainment,Corporate Wire,21.02,Approved,No
+TXN-80792,2025-01-24,Office Supplies,Corporate Wire,301.08,Approved,No
+TXN-80793,2025-01-17,Office Supplies,ACH Transfer,49.97,Approved,No
+TXN-80794,2025-06-28,Software & Cloud,Corporate Wire,48.38,Approved,No
+TXN-80795,2025-01-21,Travel,Corporate Wire,1377.63,Approved,No
+TXN-80796,2025-11-13,Travel,Corporate Wire,7175.4,Approved,No
+TXN-80797,2025-07-27,Entertainment,ACH Transfer,108.84,Approved,No
+TXN-80798,2025-05-31,Software & Cloud,Corporate Wire,68.21,Approved,No
+TXN-80799,2025-10-16,Marketing,Corporate Wire,1281.15,Approved,No
+TXN-80800,2025-10-24,Software & Cloud,Credit Card,633.34,Approved,No
+TXN-80801,2025-03-02,Travel,Corporate Wire,845.34,Flagged,No
+TXN-80802,2025-10-29,Marketing,ACH Transfer,52.51,Approved,No
+TXN-80803,2025-02-17,Payroll,Corporate Wire,136.73,Approved,No
+TXN-80804,2025-07-22,Software & Cloud,Expense Card,25.26,Flagged,No
+TXN-80805,2025-08-05,Software & Cloud,ACH Transfer,7544.81,Approved,No
+TXN-80806,2025-02-22,Consulting,Corporate Wire,1357.46,Approved,No
+TXN-80807,2025-01-03,Travel,Corporate Wire,1343.17,Approved,No
+TXN-80808,2025-02-01,Marketing,Corporate Wire,37.44,Approved,No
+TXN-80809,2025-01-06,Marketing,ACH Transfer,27.7,Approved,No
+TXN-80810,2025-05-02,Marketing,Credit Card,774.1,Approved,No
+TXN-80811,2025-08-27,Marketing,Corporate Wire,65.54,Approved,No
+TXN-80812,2025-10-07,Office Supplies,Corporate Wire,530.68,Approved,No
+TXN-80813,2025-04-03,Office Supplies,Credit Card,905.55,Flagged,No
+TXN-80814,2025-07-15,Payroll,Corporate Wire,6924.1,Flagged,No
+TXN-80815,2025-02-18,Marketing,ACH Transfer,1425.58,Approved,No
+TXN-80816,2025-05-21,Consulting,Credit Card,633.61,Approved,No
+TXN-80817,2025-10-05,Entertainment,Corporate Wire,616.83,Approved,No
+TXN-80818,2025-03-30,Consulting,Credit Card,5134.66,Approved,No
+TXN-80819,2025-06-06,Marketing,Corporate Wire,1028.94,Approved,No
+TXN-80820,2025-10-27,Entertainment,Expense Card,406.73,Approved,No
+TXN-80821,2025-02-24,Entertainment,Corporate Wire,1234.56,Approved,No
+TXN-80822,2025-06-03,Entertainment,Expense Card,734.55,Approved,No
+TXN-80823,2025-01-07,Payroll,Credit Card,420.39,Approved,No
+TXN-80824,2025-10-19,Marketing,Corporate Wire,5935.65,Flagged,No
+TXN-80825,2025-03-29,Consulting,Expense Card,732.88,Approved,No
+TXN-80826,2025-07-04,Office Supplies,Expense Card,7433.7,Approved,Yes
+TXN-80827,2025-02-08,Office Supplies,Credit Card,309.72,Approved,No
+TXN-80828,2025-11-14,Office Supplies,Corporate Wire,33.15,Approved,No
+TXN-80829,2025-01-03,Consulting,Credit Card,227.65,Flagged,No
+TXN-80830,2025-01-20,Payroll,ACH Transfer,8002.55,Approved,No
+TXN-80831,2025-08-12,Consulting,Corporate Wire,483.91,Approved,No
+TXN-80832,2025-10-21,Travel,ACH Transfer,45.82,Flagged,No
+TXN-80833,2025-08-06,Entertainment,Corporate Wire,130.75,Flagged,No
+TXN-80834,2025-01-07,Travel,ACH Transfer,53.22,Approved,No
+TXN-80835,2025-02-20,Payroll,Expense Card,3870.09,Approved,No
+TXN-80836,2025-04-02,Consulting,Expense Card,1363.19,Flagged,No
+TXN-80837,2025-01-17,Entertainment,Expense Card,470.96,Approved,No
+TXN-80838,2025-01-24,Office Supplies,ACH Transfer,1251.51,Approved,No
+TXN-80839,2025-10-09,Office Supplies,Expense Card,7500.5,Approved,No
+TXN-80840,2025-06-03,Software & Cloud,Corporate Wire,419.31,Approved,No
+TXN-80841,2025-05-17,Marketing,Credit Card,418.68,Approved,No
+TXN-80842,2025-04-11,Entertainment,Expense Card,92.3,Approved,No
+TXN-80843,2025-05-31,Marketing,ACH Transfer,692.05,Approved,No
+TXN-80844,2025-12-19,Marketing,Expense Card,870.43,Approved,No
+TXN-80845,2025-01-07,Payroll,Credit Card,7683.58,Flagged,No
+TXN-80846,2025-05-18,Payroll,Corporate Wire,3523.96,Approved,No
+TXN-80847,2025-01-17,Entertainment,Corporate Wire,79.39,Approved,No
+TXN-80848,2025-11-28,Consulting,Expense Card,4961.47,Approved,No
+TXN-80849,2025-04-19,Marketing,Expense Card,1146.06,Approved,No
+TXN-80850,2025-05-12,Consulting,Expense Card,129.63,Flagged,No
+TXN-80851,2025-02-04,Office Supplies,ACH Transfer,1346.95,Approved,No
+TXN-80852,2025-03-18,Travel,Expense Card,79.18,Approved,No
+TXN-80853,2025-09-22,Entertainment,ACH Transfer,6223.78,Flagged,No
+TXN-80854,2025-05-29,Travel,Corporate Wire,1178.77,Approved,No
+TXN-80855,2025-12-28,Software & Cloud,Corporate Wire,74.97,Approved,No
+TXN-80856,2025-07-22,Travel,Expense Card,1065.63,Flagged,No
+TXN-80857,2025-03-03,Payroll,Corporate Wire,438.43,Approved,No
+TXN-80858,2025-02-11,Entertainment,Credit Card,787.76,Approved,No
+TXN-80859,2025-09-15,Software & Cloud,ACH Transfer,1250.84,Approved,No
+TXN-80860,2025-08-01,Office Supplies,Corporate Wire,6526.44,Flagged,No
+TXN-80861,2025-01-13,Consulting,ACH Transfer,7513.04,Approved,No
+TXN-80862,2025-03-02,Software & Cloud,Expense Card,5646.72,Approved,No
+TXN-80863,2025-07-25,Office Supplies,Expense Card,19.01,Approved,No
+TXN-80864,2025-03-25,Consulting,Credit Card,79.07,Approved,No
+TXN-80865,2025-10-18,Payroll,Corporate Wire,930.41,Approved,No
+TXN-80866,2025-04-30,Entertainment,Expense Card,7993.36,Approved,No
+TXN-80867,2025-05-15,Office Supplies,Corporate Wire,2196.35,Approved,No
+TXN-80868,2025-12-12,Travel,Corporate Wire,8432.19,Approved,No
+TXN-80869,2025-07-03,Marketing,Expense Card,75.7,Approved,No
+TXN-80870,2025-10-03,Entertainment,Expense Card,8475.52,Approved,Yes
+TXN-80871,2025-10-15,Software & Cloud,ACH Transfer,103.92,Approved,No
+TXN-80872,2025-10-03,Consulting,Credit Card,852.6,Flagged,No
+TXN-80873,2025-05-19,Payroll,Corporate Wire,6193.8,Approved,No
+TXN-80874,2025-07-14,Travel,ACH Transfer,134.14,Approved,No
+TXN-80875,2025-01-01,Marketing,Corporate Wire,141.83,Approved,No
+TXN-80876,2025-11-19,Consulting,ACH Transfer,3323.32,Approved,No
+TXN-80877,2025-11-24,Office Supplies,Credit Card,5436.5,Flagged,No
+TXN-80878,2025-03-31,Office Supplies,ACH Transfer,127.44,Approved,No
+TXN-80879,2025-03-17,Consulting,ACH Transfer,6204.5,Approved,No
+TXN-80880,2025-02-08,Travel,Expense Card,87.88,Flagged,No
+TXN-80881,2025-02-26,Entertainment,Corporate Wire,2860.81,Approved,No
+TXN-80882,2025-03-10,Office Supplies,Credit Card,47.41,Flagged,No
+TXN-80883,2025-12-11,Software & Cloud,ACH Transfer,483.84,Approved,No
+TXN-80884,2025-05-10,Payroll,ACH Transfer,149.77,Approved,No
+TXN-80885,2025-01-06,Software & Cloud,ACH Transfer,124.42,Approved,No
+TXN-80886,2025-07-28,Software & Cloud,Credit Card,94.05,Flagged,No
+TXN-80887,2025-05-08,Marketing,Credit Card,1382.31,Approved,No
+TXN-80888,2025-11-09,Software & Cloud,Expense Card,783.52,Approved,No
+TXN-80889,2025-06-12,Consulting,Corporate Wire,1358.82,Approved,No
+TXN-80890,2025-12-24,Software & Cloud,Expense Card,1180.07,Approved,No
+TXN-80891,2025-05-23,Entertainment,Credit Card,1335.82,Approved,No
+TXN-80892,2025-06-30,Travel,Expense Card,4401.35,Flagged,No
+TXN-80893,2025-03-19,Consulting,Corporate Wire,500.07,Flagged,No
+TXN-80894,2025-11-16,Office Supplies,Expense Card,295.8,Flagged,No
+TXN-80895,2025-12-08,Entertainment,Corporate Wire,3667.72,Flagged,No
+TXN-80896,2025-03-26,Software & Cloud,Expense Card,367.45,Approved,No
+TXN-80897,2025-10-19,Consulting,Expense Card,4450.21,Approved,No
+TXN-80898,2025-11-05,Office Supplies,Corporate Wire,1176.94,Flagged,No
+TXN-80899,2025-09-11,Payroll,Expense Card,97.47,Approved,No
+TXN-80900,2025-05-07,Travel,ACH Transfer,263.51,Approved,No
+TXN-80901,2025-06-17,Travel,Corporate Wire,8344.31,Approved,Yes
+TXN-80902,2025-01-06,Consulting,Credit Card,3933.69,Flagged,No
+TXN-80903,2025-03-17,Consulting,Credit Card,144.14,Approved,No
+TXN-80904,2025-05-26,Entertainment,Credit Card,3326.81,Flagged,No
+TXN-80905,2025-03-19,Marketing,Expense Card,5510.95,Approved,No
+TXN-80906,2025-12-10,Entertainment,Expense Card,6336.34,Approved,No
+TXN-80907,2025-01-06,Marketing,ACH Transfer,2983.66,Approved,No
+TXN-80908,2025-06-22,Software & Cloud,Corporate Wire,1412.23,Approved,No
+TXN-80909,2025-05-14,Office Supplies,Expense Card,8111.07,Approved,No
+TXN-80910,2025-07-09,Payroll,Expense Card,2553.64,Approved,No
+TXN-80911,2025-11-18,Software & Cloud,Credit Card,2653.28,Flagged,No
+TXN-80912,2025-06-20,Office Supplies,Expense Card,7949.79,Approved,No
+TXN-80913,2025-01-04,Entertainment,ACH Transfer,48.47,Approved,No
+TXN-80914,2025-04-26,Marketing,Credit Card,826.81,Approved,No
+TXN-80915,2025-01-27,Travel,Expense Card,455.38,Approved,No
+TXN-80916,2025-04-26,Travel,Expense Card,26.63,Approved,No
+TXN-80917,2025-06-20,Payroll,Credit Card,870.33,Approved,No
+TXN-80918,2025-06-02,Software & Cloud,Corporate Wire,1307.32,Approved,No
+TXN-80919,2025-11-08,Office Supplies,Credit Card,2166.87,Flagged,No
+TXN-80920,2025-03-07,Entertainment,Corporate Wire,57.55,Flagged,No
+TXN-80921,2025-06-14,Consulting,Credit Card,7111.78,Approved,Yes
+TXN-80922,2025-09-05,Travel,Corporate Wire,416.4,Approved,No
+TXN-80923,2025-06-30,Marketing,Expense Card,41.0,Approved,No
+TXN-80924,2025-01-01,Office Supplies,ACH Transfer,61.75,Approved,No
+TXN-80925,2025-08-20,Entertainment,ACH Transfer,1241.0,Approved,No
+TXN-80926,2025-12-08,Office Supplies,Credit Card,260.96,Approved,No
+TXN-80927,2025-05-26,Travel,Credit Card,7207.54,Approved,No
+TXN-80928,2025-10-04,Travel,ACH Transfer,3616.19,Approved,No
+TXN-80929,2025-02-11,Software & Cloud,Credit Card,106.93,Approved,No
+TXN-80930,2025-09-21,Software & Cloud,ACH Transfer,907.18,Approved,No
+TXN-80931,2025-08-16,Payroll,Credit Card,618.2,Approved,No
+TXN-80932,2025-05-25,Consulting,Expense Card,110.75,Approved,No
+TXN-80933,2025-08-02,Payroll,Corporate Wire,1412.3,Approved,No
+TXN-80934,2025-01-11,Marketing,Credit Card,5167.98,Flagged,No
+TXN-80935,2025-11-02,Travel,Corporate Wire,2763.65,Approved,No
+TXN-80936,2025-12-21,Office Supplies,ACH Transfer,131.86,Flagged,No
+TXN-80937,2025-02-21,Consulting,Credit Card,60.26,Approved,No
+TXN-80938,2025-07-24,Software & Cloud,Corporate Wire,355.1,Approved,No
+TXN-80939,2025-08-21,Marketing,Corporate Wire,607.6,Approved,No
+TXN-80940,2025-09-02,Consulting,ACH Transfer,5121.61,Approved,No
+TXN-80941,2025-09-30,Entertainment,Corporate Wire,139.0,Approved,No
+TXN-80942,2025-02-07,Consulting,ACH Transfer,949.55,Flagged,No
+TXN-80943,2025-03-09,Consulting,Expense Card,624.73,Approved,No
+TXN-80944,2025-04-29,Marketing,Credit Card,699.68,Approved,No
+TXN-80945,2025-07-11,Software & Cloud,Expense Card,1379.38,Flagged,No
+TXN-80946,2025-06-19,Travel,Credit Card,253.99,Approved,No
+TXN-80947,2025-01-23,Marketing,Corporate Wire,2570.25,Flagged,No
+TXN-80948,2025-01-05,Marketing,Credit Card,16.48,Approved,No
+TXN-80949,2025-05-02,Travel,Credit Card,375.83,Approved,No
+TXN-80950,2025-04-13,Payroll,Expense Card,938.95,Approved,No
+TXN-80951,2025-02-27,Entertainment,Corporate Wire,6051.33,Flagged,No
+TXN-80952,2025-03-10,Travel,Expense Card,1259.15,Approved,No
+TXN-80953,2025-05-20,Marketing,Corporate Wire,5619.44,Approved,No
+TXN-80954,2025-05-27,Payroll,ACH Transfer,5623.35,Approved,No
+TXN-80955,2025-10-08,Payroll,Expense Card,655.51,Approved,No
+TXN-80956,2025-07-27,Consulting,Corporate Wire,132.04,Approved,No
+TXN-80957,2025-11-12,Consulting,Expense Card,22.06,Flagged,No
+TXN-80958,2025-08-04,Travel,Corporate Wire,749.97,Flagged,No
+TXN-80959,2025-11-24,Entertainment,Corporate Wire,117.3,Approved,No
+TXN-80960,2025-02-02,Marketing,ACH Transfer,83.04,Approved,No
+TXN-80961,2025-08-14,Travel,Corporate Wire,1025.25,Approved,No
+TXN-80962,2025-08-05,Marketing,Credit Card,61.83,Approved,No
+TXN-80963,2025-06-04,Marketing,Credit Card,3999.34,Approved,No
+TXN-80964,2025-12-30,Travel,Expense Card,145.76,Approved,No
+TXN-80965,2025-08-28,Payroll,Credit Card,5722.35,Approved,No
+TXN-80966,2025-11-26,Entertainment,Expense Card,3952.24,Flagged,No
+TXN-80967,2025-04-20,Office Supplies,Expense Card,59.56,Approved,No
+TXN-80968,2025-11-07,Payroll,Expense Card,4990.04,Approved,No
+TXN-80969,2025-12-18,Marketing,Expense Card,3578.77,Flagged,No
+TXN-80970,2025-08-31,Entertainment,Credit Card,2038.86,Approved,No
+TXN-80971,2025-04-06,Office Supplies,Corporate Wire,18.45,Approved,No
+TXN-80972,2025-03-15,Entertainment,Expense Card,1087.4,Approved,No
+TXN-80973,2025-01-21,Marketing,Corporate Wire,132.26,Flagged,No
+TXN-80974,2025-08-24,Entertainment,Expense Card,98.34,Flagged,No
+TXN-80975,2025-05-02,Consulting,Corporate Wire,45.22,Approved,No
+TXN-80976,2025-05-03,Software & Cloud,Corporate Wire,17.93,Approved,No
+TXN-80977,2025-11-12,Consulting,Corporate Wire,1237.89,Approved,No
+TXN-80978,2025-06-02,Software & Cloud,Expense Card,5414.26,Approved,No
+TXN-80979,2025-12-11,Entertainment,Expense Card,617.41,Approved,No
+TXN-80980,2025-07-19,Software & Cloud,Credit Card,4836.71,Approved,No
+TXN-80981,2025-10-10,Software & Cloud,Corporate Wire,204.91,Approved,No
+TXN-80982,2025-12-11,Software & Cloud,Corporate Wire,8453.82,Approved,No
+TXN-80983,2025-08-19,Consulting,Expense Card,2490.31,Approved,No
+TXN-80984,2025-07-25,Consulting,ACH Transfer,113.57,Approved,No
+TXN-80985,2025-07-05,Office Supplies,Credit Card,1236.84,Approved,No
+TXN-80986,2025-09-15,Office Supplies,ACH Transfer,33.26,Flagged,No
+TXN-80987,2025-12-29,Entertainment,ACH Transfer,113.27,Flagged,No
+TXN-80988,2025-07-07,Consulting,Corporate Wire,72.78,Flagged,No
+TXN-80989,2025-03-23,Entertainment,Credit Card,4631.45,Approved,No
+TXN-80990,2025-07-26,Payroll,ACH Transfer,1147.61,Approved,No
+TXN-80991,2025-11-01,Marketing,Expense Card,102.17,Flagged,No
+TXN-80992,2025-10-22,Payroll,ACH Transfer,2503.01,Flagged,No
+TXN-80993,2025-10-29,Travel,ACH Transfer,3833.62,Approved,No
+TXN-80994,2025-08-02,Software & Cloud,Expense Card,6844.46,Approved,No
+TXN-80995,2025-02-21,Consulting,Corporate Wire,5807.2,Approved,No
+TXN-80996,2025-02-23,Payroll,ACH Transfer,931.1,Approved,No
+TXN-80997,2025-12-25,Travel,Credit Card,39.63,Approved,No
+TXN-80998,2025-10-30,Software & Cloud,ACH Transfer,7373.62,Flagged,Yes
+TXN-80999,2025-08-25,Payroll,Expense Card,23.67,Approved,No
+TXN-81000,2025-08-19,Software & Cloud,Expense Card,1054.44,Approved,No
+TXN-81001,2025-09-25,Consulting,Credit Card,6753.37,Approved,No
+TXN-81002,2025-11-25,Office Supplies,ACH Transfer,8367.02,Approved,No
+TXN-81003,2025-01-13,Consulting,ACH Transfer,6052.96,Flagged,No
+TXN-81004,2025-12-14,Software & Cloud,Corporate Wire,1313.21,Approved,No
+TXN-81005,2025-07-22,Software & Cloud,Credit Card,21.84,Flagged,No
+TXN-81006,2025-07-16,Travel,Expense Card,328.64,Flagged,No
+TXN-81007,2025-09-17,Payroll,Expense Card,6325.81,Flagged,No
+TXN-81008,2025-06-17,Marketing,ACH Transfer,134.94,Approved,No
+TXN-81009,2025-08-09,Consulting,ACH Transfer,267.99,Flagged,No
+TXN-81010,2025-09-29,Entertainment,Corporate Wire,274.74,Approved,No
+TXN-81011,2025-06-16,Marketing,Credit Card,1359.31,Approved,No
+TXN-81012,2025-09-20,Entertainment,Expense Card,140.95,Approved,No
+TXN-81013,2025-07-28,Office Supplies,Expense Card,1208.19,Approved,No
+TXN-81014,2025-02-02,Payroll,Expense Card,3260.91,Approved,No
+TXN-81015,2025-05-18,Entertainment,Corporate Wire,138.7,Approved,No
+TXN-81016,2025-12-22,Entertainment,ACH Transfer,113.73,Approved,No
+TXN-81017,2025-05-23,Office Supplies,Credit Card,1068.37,Approved,No
+TXN-81018,2025-11-07,Entertainment,Expense Card,7975.42,Approved,No
+TXN-81019,2025-05-20,Entertainment,ACH Transfer,921.81,Flagged,No
+TXN-81020,2025-05-19,Office Supplies,Credit Card,1388.68,Flagged,No
+TXN-81021,2025-12-20,Entertainment,Expense Card,8393.85,Approved,No
+TXN-81022,2025-05-09,Office Supplies,Credit Card,6081.59,Approved,No
+TXN-81023,2025-12-03,Software & Cloud,Expense Card,15.15,Approved,No
+TXN-81024,2025-04-30,Entertainment,Credit Card,62.76,Approved,No
+TXN-81025,2025-05-24,Office Supplies,Credit Card,78.27,Approved,No
+TXN-81026,2025-08-14,Office Supplies,Expense Card,4991.79,Approved,No
+TXN-81027,2025-12-03,Travel,ACH Transfer,6795.79,Approved,No
+TXN-81028,2025-01-02,Software & Cloud,Corporate Wire,616.0,Approved,No
+TXN-81029,2025-10-20,Travel,Expense Card,1040.71,Approved,No
+TXN-81030,2025-11-26,Payroll,ACH Transfer,689.77,Approved,No
+TXN-81031,2025-08-04,Consulting,Expense Card,871.26,Approved,No
+TXN-81032,2025-01-02,Payroll,Expense Card,3388.64,Approved,No
+TXN-81033,2025-02-17,Marketing,Credit Card,78.28,Flagged,No
+TXN-81034,2025-07-05,Entertainment,ACH Transfer,91.02,Flagged,No
+TXN-81035,2025-05-01,Software & Cloud,Corporate Wire,77.12,Flagged,No
+TXN-81036,2025-09-15,Office Supplies,Credit Card,3481.99,Approved,No
+TXN-81037,2025-12-29,Travel,Expense Card,7196.45,Flagged,No
+TXN-81038,2025-12-10,Travel,ACH Transfer,5776.01,Approved,No
+TXN-81039,2025-11-18,Travel,Expense Card,3316.41,Approved,No
+TXN-81040,2025-10-06,Entertainment,Credit Card,128.8,Approved,No
+TXN-81041,2025-02-03,Office Supplies,ACH Transfer,275.5,Flagged,No
+TXN-81042,2025-07-27,Software & Cloud,Corporate Wire,83.25,Approved,No
+TXN-81043,2025-03-21,Entertainment,Credit Card,2981.09,Flagged,No
+TXN-81044,2025-02-25,Payroll,Corporate Wire,30.46,Approved,No
+TXN-81045,2025-02-15,Payroll,Credit Card,7129.23,Approved,No
+TXN-81046,2025-03-10,Office Supplies,Credit Card,834.99,Approved,No
+TXN-81047,2025-03-02,Entertainment,Credit Card,76.38,Approved,No
+TXN-81048,2025-10-11,Consulting,Corporate Wire,1376.88,Approved,No
+TXN-81049,2025-08-21,Office Supplies,Credit Card,611.04,Flagged,No
+TXN-81050,2025-11-11,Office Supplies,Expense Card,131.4,Approved,No
+TXN-81051,2025-12-20,Marketing,Expense Card,16.79,Approved,No
+TXN-81052,2025-12-03,Entertainment,Corporate Wire,6108.82,Approved,No
+TXN-81053,2025-12-13,Consulting,Credit Card,5411.18,Approved,No
+TXN-81054,2025-05-21,Office Supplies,ACH Transfer,8382.06,Approved,Yes
+TXN-81055,2025-02-02,Marketing,ACH Transfer,6234.1,Approved,No
+TXN-81056,2025-03-20,Entertainment,Corporate Wire,147.0,Flagged,No
+TXN-81057,2025-08-16,Office Supplies,Credit Card,7324.38,Approved,No
+TXN-81058,2025-11-24,Office Supplies,Expense Card,133.58,Approved,No
+TXN-81059,2025-11-24,Software & Cloud,ACH Transfer,4321.54,Approved,No
+TXN-81060,2025-07-30,Marketing,Expense Card,92.56,Flagged,No
+TXN-81061,2025-08-07,Payroll,ACH Transfer,124.94,Approved,No
+TXN-81062,2025-04-22,Consulting,Expense Card,2773.66,Flagged,No
+TXN-81063,2025-08-20,Marketing,Corporate Wire,1114.29,Approved,No
+TXN-81064,2025-09-18,Travel,Expense Card,144.83,Approved,No
+TXN-81065,2025-02-15,Office Supplies,ACH Transfer,6302.28,Approved,No
+TXN-81066,2025-04-27,Entertainment,Corporate Wire,7554.49,Approved,No
+TXN-81067,2025-05-11,Payroll,Corporate Wire,1236.23,Approved,No
+TXN-81068,2025-05-30,Marketing,Expense Card,4527.05,Approved,No
+TXN-81069,2025-11-20,Marketing,ACH Transfer,1045.39,Approved,No
+TXN-81070,2025-11-09,Payroll,Credit Card,72.33,Approved,No
+TXN-81071,2025-09-20,Travel,Credit Card,917.35,Approved,No
+TXN-81072,2025-06-03,Software & Cloud,ACH Transfer,7780.83,Approved,No
+TXN-81073,2025-09-07,Payroll,Expense Card,2835.0,Approved,No
+TXN-81074,2025-07-27,Office Supplies,ACH Transfer,104.7,Approved,No
+TXN-81075,2025-11-21,Consulting,ACH Transfer,5738.4,Flagged,No
+TXN-81076,2025-04-06,Payroll,Credit Card,445.19,Approved,No
+TXN-81077,2025-07-13,Office Supplies,Expense Card,1438.31,Flagged,No
+TXN-81078,2025-05-23,Software & Cloud,Corporate Wire,124.53,Approved,No
+TXN-81079,2025-12-24,Payroll,Corporate Wire,51.27,Flagged,No
+TXN-81080,2025-10-11,Consulting,Corporate Wire,135.3,Approved,No
+TXN-81081,2025-08-20,Consulting,Credit Card,1026.36,Approved,No
+TXN-81082,2025-05-31,Marketing,Credit Card,474.68,Approved,No
+TXN-81083,2025-06-05,Consulting,Expense Card,764.57,Approved,No
+TXN-81084,2025-10-09,Travel,Expense Card,48.25,Approved,No
+TXN-81085,2025-11-26,Payroll,Expense Card,135.64,Approved,No
+TXN-81086,2025-12-17,Consulting,Expense Card,1345.04,Approved,No
+TXN-81087,2025-04-21,Travel,ACH Transfer,432.57,Approved,No
+TXN-81088,2025-04-17,Payroll,ACH Transfer,3662.82,Flagged,No
+TXN-81089,2025-03-14,Consulting,Corporate Wire,896.73,Flagged,No
+TXN-81090,2025-05-04,Entertainment,Corporate Wire,3793.96,Approved,No
+TXN-81091,2025-12-18,Marketing,Expense Card,54.48,Approved,No
+TXN-81092,2025-12-23,Marketing,Expense Card,86.01,Approved,No
+TXN-81093,2025-12-19,Software & Cloud,Credit Card,958.11,Flagged,No
+TXN-81094,2025-08-11,Payroll,Expense Card,452.61,Approved,No
+TXN-81095,2025-02-21,Travel,Expense Card,145.28,Approved,No
+TXN-81096,2025-02-03,Travel,ACH Transfer,4681.59,Approved,No
+TXN-81097,2025-01-08,Entertainment,Expense Card,122.79,Flagged,No
+TXN-81098,2025-09-26,Payroll,ACH Transfer,72.14,Flagged,No
+TXN-81099,2025-10-08,Payroll,Credit Card,34.28,Approved,No
+TXN-81100,2025-02-06,Entertainment,ACH Transfer,142.18,Flagged,No
+TXN-81101,2025-01-28,Travel,Corporate Wire,440.53,Approved,No
+TXN-81102,2025-01-10,Payroll,ACH Transfer,138.59,Approved,No
+TXN-81103,2025-03-20,Marketing,Credit Card,69.5,Approved,No
+TXN-81104,2025-10-29,Marketing,Corporate Wire,17.58,Approved,No
+TXN-81105,2025-09-23,Entertainment,Corporate Wire,32.38,Approved,No
+TXN-81106,2025-10-28,Software & Cloud,Corporate Wire,39.87,Approved,No
+TXN-81107,2025-12-06,Travel,Credit Card,3350.27,Approved,No
+TXN-81108,2025-04-25,Software & Cloud,Credit Card,4363.51,Flagged,No
+TXN-81109,2025-04-20,Travel,Corporate Wire,977.02,Approved,No
+TXN-81110,2025-03-06,Marketing,Corporate Wire,850.78,Flagged,No
+TXN-81111,2025-01-03,Consulting,Corporate Wire,865.6,Approved,No
+TXN-81112,2025-01-28,Payroll,ACH Transfer,1175.46,Approved,No
+TXN-81113,2025-12-05,Marketing,ACH Transfer,813.47,Approved,No
+TXN-81114,2025-12-19,Marketing,Corporate Wire,1476.39,Approved,No
+TXN-81115,2025-09-07,Marketing,Expense Card,3600.87,Approved,No
+TXN-81116,2025-08-02,Office Supplies,Expense Card,546.58,Approved,No
+TXN-81117,2025-07-27,Software & Cloud,ACH Transfer,1341.6,Flagged,No
+TXN-81118,2025-06-12,Consulting,Corporate Wire,6541.82,Flagged,No
+TXN-81119,2025-11-21,Software & Cloud,ACH Transfer,3316.56,Flagged,No
+TXN-81120,2025-10-31,Consulting,Corporate Wire,2531.68,Flagged,No
+TXN-81121,2025-11-27,Entertainment,Expense Card,143.37,Approved,No
+TXN-81122,2025-04-19,Marketing,ACH Transfer,70.46,Approved,No
+TXN-81123,2025-02-21,Consulting,Expense Card,5675.79,Approved,No
+TXN-81124,2025-11-08,Office Supplies,Credit Card,3459.92,Approved,No
+TXN-81125,2025-07-21,Travel,Corporate Wire,314.9,Approved,No
+TXN-81126,2025-03-08,Consulting,Expense Card,22.96,Approved,No
+TXN-81127,2025-10-02,Marketing,Expense Card,124.96,Approved,No
+TXN-81128,2025-05-21,Consulting,Corporate Wire,1472.98,Approved,No
+TXN-81129,2025-06-02,Office Supplies,Expense Card,68.58,Approved,No
+TXN-81130,2025-12-26,Consulting,ACH Transfer,61.5,Approved,No
+TXN-81131,2025-03-13,Consulting,ACH Transfer,5722.27,Approved,No
+TXN-81132,2025-02-26,Payroll,Corporate Wire,1113.27,Flagged,No
+TXN-81133,2025-11-14,Travel,Expense Card,4676.01,Approved,No
+TXN-81134,2025-06-18,Software & Cloud,Corporate Wire,96.01,Approved,No
+TXN-81135,2025-10-20,Marketing,Credit Card,3604.84,Approved,No
+TXN-81136,2025-10-27,Payroll,Credit Card,305.69,Approved,No
+TXN-81137,2025-09-01,Software & Cloud,Expense Card,3333.27,Approved,No
+TXN-81138,2025-02-21,Office Supplies,ACH Transfer,932.36,Approved,No
+TXN-81139,2025-02-01,Payroll,Credit Card,131.77,Approved,No
+TXN-81140,2025-02-16,Office Supplies,Credit Card,5759.22,Approved,No
+TXN-81141,2025-01-13,Entertainment,Credit Card,129.54,Approved,No
+TXN-81142,2025-10-15,Office Supplies,Expense Card,4627.29,Approved,No
+TXN-81143,2025-02-07,Payroll,Credit Card,48.27,Approved,No
+TXN-81144,2025-06-18,Office Supplies,ACH Transfer,89.72,Approved,No
+TXN-81145,2025-02-08,Software & Cloud,Expense Card,23.29,Flagged,No
+TXN-81146,2025-10-30,Entertainment,Credit Card,906.61,Flagged,No
+TXN-81147,2025-12-26,Travel,Credit Card,7699.88,Approved,Yes
+TXN-81148,2025-01-09,Entertainment,Corporate Wire,55.97,Approved,No
+TXN-81149,2025-02-17,Marketing,Credit Card,893.7,Approved,No
+TXN-81150,2025-09-06,Software & Cloud,Credit Card,989.84,Approved,No
+TXN-81151,2025-07-14,Consulting,ACH Transfer,2466.36,Approved,No
+TXN-81152,2025-11-23,Travel,Expense Card,1461.81,Approved,No
+TXN-81153,2025-10-23,Entertainment,ACH Transfer,1033.84,Approved,No
+TXN-81154,2025-12-30,Travel,Corporate Wire,636.17,Flagged,No
+TXN-81155,2025-04-05,Payroll,Expense Card,912.23,Approved,No
+TXN-81156,2025-03-31,Marketing,Expense Card,2013.11,Approved,No
+TXN-81157,2025-09-07,Marketing,Credit Card,5528.22,Approved,No
+TXN-81158,2025-09-27,Office Supplies,ACH Transfer,5293.44,Approved,No
+TXN-81159,2025-01-16,Travel,ACH Transfer,1487.53,Flagged,No
+TXN-81160,2025-06-28,Consulting,Expense Card,43.11,Approved,No
+TXN-81161,2025-11-23,Consulting,Credit Card,2866.25,Approved,No
+TXN-81162,2025-07-07,Consulting,Credit Card,5096.67,Approved,No
+TXN-81163,2025-05-31,Travel,ACH Transfer,489.23,Flagged,No
+TXN-81164,2025-04-03,Entertainment,ACH Transfer,20.47,Approved,No
+TXN-81165,2025-11-23,Travel,Expense Card,70.24,Flagged,No
+TXN-81166,2025-10-02,Software & Cloud,Corporate Wire,3249.13,Approved,No
+TXN-81167,2025-06-29,Travel,Corporate Wire,33.9,Approved,No
+TXN-81168,2025-01-07,Marketing,ACH Transfer,1326.23,Approved,No
+TXN-81169,2025-01-01,Travel,ACH Transfer,1144.18,Approved,No
+TXN-81170,2025-07-10,Software & Cloud,Credit Card,110.11,Approved,No
+TXN-81171,2025-06-13,Software & Cloud,Expense Card,6180.34,Approved,No
+TXN-81172,2025-01-04,Entertainment,Expense Card,1031.42,Flagged,No
+TXN-81173,2025-01-21,Office Supplies,Expense Card,85.77,Approved,No
+TXN-81174,2025-06-03,Travel,Credit Card,1383.04,Approved,No
+TXN-81175,2025-02-09,Marketing,ACH Transfer,132.66,Approved,No
+TXN-81176,2025-08-29,Marketing,Expense Card,122.98,Approved,No
+TXN-81177,2025-02-13,Software & Cloud,Corporate Wire,4238.29,Approved,No
+TXN-81178,2025-04-27,Payroll,Expense Card,90.37,Approved,No
+TXN-81179,2025-12-05,Entertainment,Expense Card,3557.08,Flagged,No
+TXN-81180,2025-10-22,Office Supplies,Credit Card,631.51,Flagged,No
+TXN-81181,2025-07-10,Entertainment,ACH Transfer,109.21,Approved,No
+TXN-81182,2025-08-03,Entertainment,Expense Card,91.47,Flagged,No
+TXN-81183,2025-07-13,Travel,Credit Card,113.26,Approved,No
+TXN-81184,2025-05-20,Consulting,ACH Transfer,74.95,Flagged,No
+TXN-81185,2025-02-17,Consulting,Corporate Wire,3942.47,Approved,No
+TXN-81186,2025-07-03,Software & Cloud,Corporate Wire,3263.93,Flagged,No
+TXN-81187,2025-11-11,Office Supplies,Corporate Wire,1303.54,Flagged,No
+TXN-81188,2025-09-13,Entertainment,Corporate Wire,1339.37,Approved,No
+TXN-81189,2025-03-14,Software & Cloud,ACH Transfer,38.5,Approved,No
+TXN-81190,2025-08-21,Travel,Corporate Wire,1136.19,Approved,No
+TXN-81191,2025-10-01,Marketing,ACH Transfer,57.57,Flagged,No
+TXN-81192,2025-09-13,Software & Cloud,Expense Card,17.02,Approved,No
+TXN-81193,2025-04-20,Entertainment,Corporate Wire,4196.59,Approved,No
+TXN-81194,2025-04-03,Marketing,Corporate Wire,129.52,Flagged,No
+TXN-81195,2025-01-24,Software & Cloud,ACH Transfer,1276.58,Approved,No
+TXN-81196,2025-11-13,Payroll,Credit Card,74.75,Approved,No
+TXN-81197,2025-03-09,Entertainment,Credit Card,55.77,Approved,No
+TXN-81198,2025-12-17,Marketing,Corporate Wire,94.7,Flagged,No
+TXN-81199,2025-01-03,Entertainment,Expense Card,44.87,Approved,No
