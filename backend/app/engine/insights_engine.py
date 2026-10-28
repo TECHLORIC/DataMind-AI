@@ -180,12 +180,23 @@ class InsightsEngine:
             try:
                 trend_sql = f'''
                     SELECT 
-                        strftime(CAST("{time_col}" AS TIMESTAMP), '%Y-%m') AS period,
+                        strftime(
+                            COALESCE(
+                                TRY_CAST("{time_col}" AS TIMESTAMP),
+                                TRY_CAST("{time_col}" AS DATE),
+                                TRY_STRPTIME(CAST("{time_col}" AS VARCHAR), [
+                                    '%Y-%m-%d', '%d/%m/%Y', '%m/%d/%Y', '%d-%m-%Y', '%m-%d-%Y',
+                                    '%Y/%m/%d', '%d.%m.%Y', '%d-%b-%Y', '%d %b %Y', '%b %d, %Y',
+                                    '%B %d, %Y', '%Y-%m-%d %H:%M:%S', '%d/%m/%Y %H:%M:%S', '%m/%d/%Y %H:%M:%S'
+                                ])
+                            ),
+                            '%Y-%m'
+                        ) AS period,
                         SUM("{meas}") AS period_val
                     FROM dataset
-                    WHERE "{time_col}" IS NOT NULL
-                    GROUP BY period
-                    ORDER BY period ASC
+                    WHERE "{time_col}" IS NOT NULL AND "{meas}" IS NOT NULL
+                    GROUP BY 1
+                    ORDER BY 1 ASC
                 '''
                 df_trend = con.execute(trend_sql).fetchdf()
                 if len(df_trend) >= 3:

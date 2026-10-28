@@ -82,7 +82,9 @@ class IngestionEngine:
                 sample = df[col].dropna().head(20)
                 if len(sample) > 0 and any(keyword in col.lower() for keyword in ["date", "time", "year", "month", "timestamp"]):
                     try:
-                        df[col] = pd.to_datetime(df[col], errors="ignore")
+                        parsed = pd.to_datetime(df[col], format="mixed", errors="coerce")
+                        if parsed.notnull().sum() / max(len(df[col]), 1) > 0.5:
+                            df[col] = parsed
                     except Exception:
                         pass
 

@@ -1,0 +1,38 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./backend
+      dockerfile: docker/Dockerfile.backend
+    container_name: datamind-ai-backend
+    restart: unless-stopped
+    ports:
+      - "8005:8005"
+    volumes:
+      - datamind-data:/app/data
+    environment:
+      - HOST=0.0.0.0
+      - PORT=8005
+      - GROQ_API_KEY=${GROQ_API_KEY}
+      - OPENAI_API_KEY=${OPENAI_API_KEY}
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8005/api/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: ../backend/docker/Dockerfile.frontend
+    container_name: datamind-ai-frontend
+    restart: unless-stopped
+    ports:
+      - "3005:80"
+    depends_on:
+      - backend
+
+volumes:
+  datamind-data:
+    driver: local

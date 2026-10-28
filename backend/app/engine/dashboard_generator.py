@@ -151,16 +151,32 @@ class DashboardGenerator:
         if time_col and measures:
             meas = measures[0]
             try:
-                # Query group by truncated date (DuckDB strftime / date_trunc)
+                base_where = SQLEngine.build_where_clause(filters)
+                if base_where:
+                    where_clause = f'{base_where} AND "{time_col}" IS NOT NULL AND "{meas}" IS NOT NULL'
+                else:
+                    where_clause = f'WHERE "{time_col}" IS NOT NULL AND "{meas}" IS NOT NULL'
+
+                # Query group by truncated date (DuckDB strftime / multi-format strptime)
                 sql_trend = f'''
                     SELECT 
-                        strftime(CAST("{time_col}" AS TIMESTAMP), '%Y-%m') AS category,
+                        strftime(
+                            COALESCE(
+                                TRY_CAST("{time_col}" AS TIMESTAMP),
+                                TRY_CAST("{time_col}" AS DATE),
+                                TRY_STRPTIME(CAST("{time_col}" AS VARCHAR), [
+                                    '%Y-%m-%d', '%d/%m/%Y', '%m/%d/%Y', '%d-%m-%Y', '%m-%d-%Y',
+                                    '%Y/%m/%d', '%d.%m.%Y', '%d-%b-%Y', '%d %b %Y', '%b %d, %Y',
+                                    '%B %d, %Y', '%Y-%m-%d %H:%M:%S', '%d/%m/%Y %H:%M:%S', '%m/%d/%Y %H:%M:%S'
+                                ])
+                            ),
+                            '%Y-%m'
+                        ) AS category,
                         ROUND(SUM("{meas}"), 2) AS value
                     FROM dataset
-                    {SQLEngine.build_where_clause(filters)}
-                    WHERE "{time_col}" IS NOT NULL
-                    GROUP BY category
-                    ORDER BY category ASC
+                    {where_clause}
+                    GROUP BY 1
+                    ORDER BY 1 ASC
                     LIMIT 30
                 '''
                 res = SQLEngine.execute_query(parquet_path, sql_trend)

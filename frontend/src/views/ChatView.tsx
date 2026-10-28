@@ -92,6 +92,8 @@ export const ChatView: React.FC<ChatViewProps> = ({ datasetId, profile }) => {
         sql_query: res.data.sql_query,
         table_data: res.data.table_data,
         chart: res.data.chart,
+        plotly_spec: res.data.plotly_spec,
+        routed_agents: res.data.routed_agents,
         confidence: res.data.confidence,
         timestamp: new Date().toLocaleTimeString([], { hour: '2-digit', minute: '2-digit' })
       };
@@ -252,6 +254,21 @@ export const ChatView: React.FC<ChatViewProps> = ({ datasetId, profile }) => {
                     : 'bg-[#0f121d] border border-[#1e2238] text-slate-200 rounded-tl-none'
                 }`}
               >
+                {/* LangGraph Agent Orchestration Flow Badges */}
+                {msg.routed_agents && msg.routed_agents.length > 0 && (
+                  <div className="flex flex-wrap items-center gap-1.5 mb-3 pb-2 border-b border-[#1e2238]/60">
+                    <span className="text-[10px] uppercase font-bold text-slate-500">LangGraph Flow:</span>
+                    {msg.routed_agents.map((agent, aIdx) => (
+                      <span key={aIdx} className="flex items-center space-x-1">
+                        <span className="px-2 py-0.5 rounded-md bg-purple-900/30 text-purple-300 border border-purple-500/20 text-[10px] font-mono font-semibold">
+                          {agent}
+                        </span>
+                        {aIdx < (msg.routed_agents?.length ?? 0) - 1 && <span className="text-slate-600 text-[10px]">&rarr;</span>}
+                      </span>
+                    ))}
+                  </div>
+                )}
+
                 {/* Formatted Explanation */}
                 {renderFormattedText(msg.text)}
 

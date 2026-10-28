@@ -30,6 +30,7 @@ export interface DatasetProfile {
   primary_dimensions: string[];
   primary_time_column?: string | null;
   primary_id_column?: string | null;
+  cleaning_report?: any;
   created_at: string;
 }
 
@@ -55,6 +56,7 @@ export interface ChartSpec {
   aggregation?: string;
   data: any[];
   insight?: string;
+  plotly_spec?: any;
   echarts_option?: any;
 }
 
@@ -92,6 +94,8 @@ export interface ChatMessage {
   sql_query?: string | null;
   table_data?: any[] | null;
   chart?: ChartSpec | null;
+  plotly_spec?: any;
+  routed_agents?: string[];
   confidence?: number;
   timestamp: string;
 }

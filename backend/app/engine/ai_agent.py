@@ -252,17 +252,29 @@ Rules:
         limit_val = int(limit_match.group(2)) if limit_match else 10
 
         # Pattern A: Trend over time
-        if time_col and any(w in q for w in ["trend", "over time", "monthly", "by month", "timeline", "trajectory", "mahina", "samay"]):
+        if time_col and any(w in q for w in ["trend", "over time", "monthly", "by month", "timeline", "trajectory", "mahina", "samay", "yearly", "daily"]):
             meas = target_measure or "1"
             agg_expr = f'ROUND({agg}("{meas}"), 2)' if target_measure else "COUNT(*)"
+            fmt = "%Y" if any(w in q for w in ["year", "annual", "yearly"]) else "%Y-%m-%d" if any(w in q for w in ["day", "daily"]) else "%Y-%m"
             sql = f'''
                 SELECT 
-                    strftime(CAST("{time_col}" AS TIMESTAMP), '%Y-%m') AS period,
+                    strftime(
+                        COALESCE(
+                            TRY_CAST("{time_col}" AS TIMESTAMP),
+                            TRY_CAST("{time_col}" AS DATE),
+                            TRY_STRPTIME(CAST("{time_col}" AS VARCHAR), [
+                                '%Y-%m-%d', '%d/%m/%Y', '%m/%d/%Y', '%d-%m-%Y', '%m-%d-%Y',
+                                '%Y/%m/%d', '%d.%m.%Y', '%d-%b-%Y', '%d %b %Y', '%b %d, %Y',
+                                '%B %d, %Y', '%Y-%m-%d %H:%M:%S', '%d/%m/%Y %H:%M:%S', '%m/%d/%Y %H:%M:%S'
+                            ])
+                        ),
+                        '{fmt}'
+                    ) AS period,
                     {agg_expr} AS value
                 FROM dataset
                 WHERE "{time_col}" IS NOT NULL
-                GROUP BY period
-                ORDER BY period ASC
+                GROUP BY 1
+                ORDER BY 1 ASC
                 LIMIT 24
             '''
             return sql, "temporal_trend"

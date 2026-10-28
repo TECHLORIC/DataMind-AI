@@ -19,7 +19,7 @@ interface HeaderProps {
   datasets: DatasetItem[];
   selectedDatasetId: string;
   onSelectDataset: (id: string) => void;
-  onLoadSample: (sampleKey: string) => void;
+  onLoadSample?: (sampleKey: string) => void;
   onOpenUpload: () => void;
   isLoading: boolean;
   onReturnHome: () => void;
@@ -92,41 +92,6 @@ export const Header: React.FC<HeaderProps> = ({
               <LayoutDashboard className="w-3.5 h-3.5 text-indigo-400" />
               <span>Workspace Hub</span>
             </button>
-
-            {/* Quick Sample Selector */}
-            <div className="hidden lg:flex items-center space-x-1 bg-slate-900/80 p-1 rounded-lg border border-slate-800 text-xs text-slate-400">
-              <span className="px-2 text-[11px] font-medium text-slate-500">Domains:</span>
-              <button
-                onClick={() => onLoadSample('cfpb')}
-                className="px-2 py-0.5 rounded bg-purple-600/30 text-purple-300 hover:bg-purple-600 hover:text-white transition font-semibold text-[11px]"
-              >
-                CFPB (Image UI)
-              </button>
-              <button
-                onClick={() => onLoadSample('sales')}
-                className="px-2 py-0.5 rounded hover:bg-slate-800 hover:text-white transition text-slate-300 text-[11px]"
-              >
-                Sales
-              </button>
-              <button
-                onClick={() => onLoadSample('education')}
-                className="px-2 py-0.5 rounded hover:bg-slate-800 hover:text-white transition text-slate-300 text-[11px]"
-              >
-                Education
-              </button>
-              <button
-                onClick={() => onLoadSample('healthcare')}
-                className="px-2 py-0.5 rounded hover:bg-slate-800 hover:text-white transition text-slate-300 text-[11px]"
-              >
-                Health
-              </button>
-              <button
-                onClick={() => onLoadSample('finance')}
-                className="px-2 py-0.5 rounded hover:bg-slate-800 hover:text-white transition text-slate-300 text-[11px]"
-              >
-                Finance
-              </button>
-            </div>
 
             {/* Dataset Dropdown */}
             {datasets.length > 0 && (

@@ -362,7 +362,8 @@ class MLEngine:
                 raise ValueError("Forecasting requires a valid time column and a continuous target metric.")
 
             clean_df = df.dropna(subset=[time_col, target_col]).copy()
-            clean_df[time_col] = pd.to_datetime(clean_df[time_col])
+            clean_df[time_col] = pd.to_datetime(clean_df[time_col], format="mixed", errors="coerce")
+            clean_df = clean_df.dropna(subset=[time_col])
             ts = clean_df.sort_values(time_col).groupby(pd.Grouper(key=time_col, freq="ME"))[target_col].sum().reset_index()
 
             horizon = request.forecast_horizon or 12
